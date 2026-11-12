@@ -1,0 +1,1094 @@
+cultura,cod_municipio,municipio,mesorregiao,anos_com_dado,area_media_ha,producao_media_t,rendimento_medio_kg_ha,cv_rendimento_pct,pior_desvio_pct,ano_pior
+Arroz,4300034,Aceguá,Sudoeste,16,8482.94,68348.44,8047.61,8.91,-16.73,2012
+Arroz,4300109,Agudo,Centro Ocidental,16,8479.25,67146.5,7853.72,11.11,-30.15,2010
+Arroz,4300406,Alegrete,Sudoeste,16,54377.75,450878.5,8308.63,10.57,-11.13,2019
+Arroz,4300851,Arambaré,Metropolitana de Porto Alegre,16,13689.5,105868.62,7791.49,14.24,-7.06,2019
+Arroz,4301305,Arroio Grande,Sudeste,16,36738.69,287507.44,7880.33,9.93,-10.53,2010
+Arroz,4301602,Bagé,Sudoeste,16,9507.56,74872.81,7877.31,6.33,-1.33,2019
+Arroz,4301875,Barra do Quaraí,Sudoeste,16,22448.81,193012.31,8589.06,8.53,-11.47,2016
+Arroz,4301909,Barra do Ribeiro,Metropolitana de Porto Alegre,16,12956.62,94034.38,7274.15,9.46,-20.28,2024
+Arroz,4302709,Butiá,Metropolitana de Porto Alegre,16,955.94,6323.88,6784.54,20.6,-52.38,2023
+Arroz,4302808,Caçapava do Sul,Sudeste,16,3153.0,23609.88,7497.41,7.97,-20.18,2022
+Arroz,4302907,Cacequi,Centro Ocidental,16,13660.0,91034.0,6720.4,13.35,-29.44,2010
+Arroz,4303004,Cachoeira do Sul,Centro Oriental,16,28911.44,207823.38,7232.55,9.82,-16.3,2010
+Arroz,4303509,Camaquã,Metropolitana de Porto Alegre,16,32124.62,252067.75,7882.16,14.53,-7.69,2019
+Arroz,4304200,Candelária,Centro Oriental,16,7284.62,52254.5,7258.52,11.61,-15.91,2010
+Arroz,4304358,Candiota,Sudeste,16,626.81,4546.06,7265.21,6.53,-12.41,2016
+Arroz,4304507,Canguçu,Sudeste,16,713.75,5630.94,8019.66,11.26,-16.15,2010
+Arroz,4304606,Canoas,Metropolitana de Porto Alegre,15,513.67,3428.87,6746.67,6.48,-14.29,2010
+Arroz,4304663,Capão do Leão,Sudeste,16,6739.5,59609.94,8871.83,9.9,-15.24,2016
+Arroz,4304671,Capivari do Sul,Metropolitana de Porto Alegre,16,12162.69,87196.12,7314.52,12.53,-26.5,2019
+Arroz,4304689,Capela de Santana,Metropolitana de Porto Alegre,16,1645.81,11298.25,6743.75,16.69,-18.81,2024
+Arroz,4305132,Cerro Branco,Centro Oriental,16,959.19,6729.62,7006.02,9.79,-19.44,2023
+Arroz,4305173,Cerro Grande do Sul,Metropolitana de Porto Alegre,16,675.62,4425.88,6575.97,10.47,-24.96,2019
+Arroz,4305355,Charqueadas,Metropolitana de Porto Alegre,16,4216.25,30318.88,7204.37,6.71,-19.48,2024
+Arroz,4305439,Chuí,Sudeste,16,3392.56,29041.44,8605.6,15.3,-8.93,2018
+Arroz,4305454,Cidreira,Metropolitana de Porto Alegre,16,1122.88,7902.62,7034.34,8.4,-3.49,2015
+Arroz,4306056,Cristal,Sudeste,16,5159.94,39952.5,7798.94,11.09,-14.17,2010
+Arroz,4306205,Cruzeiro do Sul,Centro Oriental,16,661.94,4911.5,7492.43,10.45,-15.11,2025
+Arroz,4306379,Dilermando de Aguiar,Centro Ocidental,16,2670.0,19450.88,7419.38,14.52,-22.95,2019
+Arroz,4306601,Dom Pedrito,Sudoeste,16,40223.0,336814.69,8398.96,7.98,-14.81,2019
+Arroz,4306700,Dona Francisca,Centro Ocidental,16,2332.19,20049.56,8594.16,11.05,-34.15,2010
+Arroz,4306767,Eldorado do Sul,Metropolitana de Porto Alegre,16,11230.94,80010.94,7123.81,9.03,-27.61,2018
+Arroz,4306908,Encruzilhada do Sul,Sudeste,16,1255.25,8892.62,7250.02,12.55,-23.35,2018
+Arroz,4308003,Faxinal do Soturno,Centro Ocidental,16,1950.62,13586.5,6971.04,14.12,-25.8,2012
+Arroz,4308409,Formigueiro,Centro Ocidental,16,8625.25,60460.62,7029.55,13.23,-18.19,2010
+Arroz,4308805,General Câmara,Metropolitana de Porto Alegre,16,1944.06,12877.12,6620.91,11.42,-26.2,2024
+Arroz,4309050,Glorinha,Metropolitana de Porto Alegre,16,1644.5,12528.56,7698.03,13.72,-18.05,2010
+Arroz,4309209,Gravataí,Metropolitana de Porto Alegre,16,639.81,4501.19,7061.96,6.63,-5.71,2011
+Arroz,4309308,Guaíba,Metropolitana de Porto Alegre,16,3878.25,28619.31,7380.77,4.75,-4.94,2015
+Arroz,4309654,Hulha Negra,Sudoeste,16,854.5,6364.5,7476.77,8.48,-19.58,2016
+Arroz,4310553,Itacurubi,Centro Ocidental,14,843.43,6702.57,8075.31,6.98,-11.11,2024
+Arroz,4310603,Itaqui,Sudoeste,16,68276.69,528788.25,7779.44,9.6,-15.01,2016
+Arroz,4311007,Jaguarão,Sudeste,16,19529.62,162782.75,8402.44,9.74,-4.29,2016
+Arroz,4311106,Jaguari,Centro Ocidental,16,2099.0,16835.81,8052.49,12.46,-16.99,2010
+Arroz,4311502,Lavras do Sul,Sudoeste,16,3164.12,23131.81,7310.63,12.47,-19.57,2012
+Arroz,4311718,Maçambará,Sudoeste,16,16640.81,130430.81,7800.45,10.56,-15.96,2016
+Arroz,4311734,Mampituba,Metropolitana de Porto Alegre,16,1002.19,7639.31,7630.55,5.91,-12.99,2011
+Arroz,4311759,Manoel Viana,Sudoeste,16,2740.94,18810.81,6875.82,16.39,-25.12,2016
+Arroz,4311981,Mariana Pimentel,Metropolitana de Porto Alegre,16,829.0,5532.19,6578.74,13.95,-33.63,2024
+Arroz,4312104,Mata,Centro Ocidental,16,1526.56,11026.25,7124.5,11.66,-31.03,2019
+Arroz,4312252,Minas do Leão,Metropolitana de Porto Alegre,16,2246.0,15580.12,7119.68,10.05,-14.16,2010
+Arroz,4312443,Morrinhos do Sul,Metropolitana de Porto Alegre,16,1423.44,9602.75,6753.74,6.05,-1.16,2022
+Arroz,4312500,Mostardas,Metropolitana de Porto Alegre,16,35395.31,242715.19,6905.06,10.21,-12.61,2016
+Arroz,4313375,Nova Santa Rita,Metropolitana de Porto Alegre,16,3737.38,26359.44,7005.86,10.64,-9.96,2011
+Arroz,4313391,Novo Cabrais,Centro Oriental,16,1730.25,12239.19,7107.88,12.83,-33.0,2022
+Arroz,4313508,Osório,Metropolitana de Porto Alegre,16,3786.94,26522.12,6977.89,10.66,-10.97,2010
+Arroz,4313656,Palmares do Sul,Metropolitana de Porto Alegre,16,17745.81,123068.94,7148.91,16.56,-25.71,2016
+Arroz,4313953,Pantano Grande,Centro Oriental,16,4477.44,35428.19,8010.19,16.64,-2.32,2018
+Arroz,4314027,Paraíso do Sul,Centro Oriental,16,3661.19,26830.44,7336.35,9.15,-22.29,2022
+Arroz,4314076,Passo do Sobrado,Centro Oriental,16,727.12,4940.75,6988.56,11.42,-19.79,2010
+Arroz,4314175,Pedras Altas,Sudeste,16,1297.12,10109.81,7730.26,7.79,-20.42,2023
+Arroz,4314209,Pedro Osório,Sudeste,16,3349.25,28752.44,8650.05,11.07,-9.08,2018
+Arroz,4314407,Pelotas,Sudeste,16,7865.12,67217.69,8581.91,10.98,-8.82,2016
+Arroz,4314605,Piratini,Sudeste,16,552.88,4638.94,8423.71,8.21,-7.68,2023
+Arroz,4315305,Quaraí,Sudoeste,16,10878.75,90522.19,8341.99,7.9,-19.47,2013
+Arroz,4315503,Restinga Sêca,Centro Ocidental,16,14936.31,105649.56,7037.89,11.33,-25.12,2010
+Arroz,4315602,Rio Grande,Sudeste,16,18761.38,169682.12,9089.88,9.05,-7.85,2012
+Arroz,4315701,Rio Pardo,Centro Oriental,16,8556.56,60164.69,7078.15,11.02,-17.08,2016
+Arroz,4316402,Rosário do Sul,Sudoeste,16,18195.12,144423.19,7983.31,9.92,-19.26,2010
+Arroz,4316808,Santa Cruz do Sul,Centro Oriental,16,1656.19,11348.12,6835.97,13.99,-21.11,2010
+Arroz,4316907,Santa Maria,Centro Ocidental,16,7092.19,50576.31,7178.79,9.83,-20.25,2010
+Arroz,4316972,Santa Margarida do Sul,Sudoeste,16,5347.06,41528.56,7781.0,8.96,-15.59,2010
+Arroz,4317103,Sant'Ana do Livramento,Sudoeste,16,9140.31,67794.88,7445.53,9.7,-15.65,2024
+Arroz,4317301,Santa Vitória do Palmar,Sudeste,16,68096.5,566025.69,8317.31,10.25,-7.96,2010
+Arroz,4317608,Santo Antônio da Patrulha,Metropolitana de Porto Alegre,16,12974.19,99699.69,7714.25,10.67,-8.07,2020
+Arroz,4317707,Santo Antônio das Missões,Noroeste,16,3210.5,25331.44,7933.02,6.86,-17.7,2022
+Arroz,4318002,São Borja,Sudoeste,16,41374.62,327177.88,7979.63,8.27,-11.64,2016
+Arroz,4318101,São Francisco de Assis,Sudoeste,16,3334.88,24518.19,7323.0,15.97,-38.19,2016
+Arroz,4318309,São Gabriel,Sudoeste,16,26411.75,210653.75,8020.06,10.02,-12.78,2024
+Arroz,4318408,São Jerônimo,Metropolitana de Porto Alegre,16,1481.88,9541.69,6426.54,11.14,-22.86,2010
+Arroz,4318432,São João do Polêsine,Centro Ocidental,16,1986.25,15034.25,7578.11,9.64,-20.1,2010
+Arroz,4318507,São José do Norte,Sudeste,16,1789.31,12016.44,6742.41,7.31,-26.84,2022
+Arroz,4318804,São Lourenço do Sul,Sudeste,16,9217.12,68793.94,7547.75,13.31,-17.05,2010
+Arroz,4319406,São Pedro do Sul,Centro Ocidental,16,3747.06,27501.75,7318.58,10.97,-16.53,2023
+Arroz,4319604,São Sepé,Centro Ocidental,16,16875.44,119210.62,7064.06,9.49,-18.03,2010
+Arroz,4319802,São Vicente do Sul,Centro Ocidental,16,9302.88,71429.19,7690.63,15.22,-37.41,2010
+Arroz,4320354,Sentinela do Sul,Metropolitana de Porto Alegre,16,2470.69,16809.94,6784.82,9.17,-6.23,2014
+Arroz,4320552,Sertão Santana,Metropolitana de Porto Alegre,16,1323.75,9302.62,7017.14,10.73,-30.54,2016
+Arroz,4321105,Tapes,Metropolitana de Porto Alegre,16,17347.75,129926.94,7456.32,13.41,-13.0,2018
+Arroz,4321204,Taquara,Metropolitana de Porto Alegre,16,909.81,6441.0,7135.17,17.32,-34.38,2020
+Arroz,4321303,Taquari,Centro Oriental,16,2801.31,20364.25,7272.95,9.75,-14.78,2020
+Arroz,4321352,Tavares,Metropolitana de Porto Alegre,16,2359.56,16252.12,6924.99,10.32,-10.06,2017
+Arroz,4321501,Torres,Metropolitana de Porto Alegre,16,3389.81,24361.62,7202.06,9.97,-21.31,2013
+Arroz,4322004,Triunfo,Metropolitana de Porto Alegre,16,7071.88,55300.0,7817.75,6.96,-13.15,2014
+Arroz,4322327,Turuçu,Sudeste,16,1481.06,12802.88,8743.94,10.15,-16.62,2014
+Arroz,4322400,Uruguaiana,Sudoeste,16,76378.62,674057.12,8827.32,8.68,-5.74,2020
+Arroz,4322525,Vale Verde,Metropolitana de Porto Alegre,16,1052.25,7033.12,6691.93,8.52,-29.52,2024
+Arroz,4322533,Vale do Sol,Centro Oriental,16,975.12,6832.12,7001.26,11.21,-19.91,2010
+Arroz,4322608,Venâncio Aires,Centro Oriental,16,1753.19,13139.75,7501.65,9.39,-19.15,2020
+Arroz,4322707,Vera Cruz,Centro Oriental,16,833.88,5656.88,6619.58,17.04,-53.29,2010
+Arroz,4323002,Viamão,Metropolitana de Porto Alegre,16,22504.38,153466.81,6842.06,7.53,-12.97,2018
+Milho,4300034,Aceguá,Sudoeste,16,1435.0,3396.56,2486.63,35.96,-67.7,2023
+Milho,4300059,Água Santa,Noroeste,16,1501.25,11515.56,7868.75,31.83,-68.42,2022
+Milho,4300109,Agudo,Centro Ocidental,16,3237.5,10819.75,3327.75,40.78,-73.96,2020
+Milho,4300208,Ajuricaba,Noroeste,16,970.31,5643.62,6032.0,31.61,-60.1,2022
+Milho,4300307,Alecrim,Noroeste,16,1656.75,7527.12,5002.17,31.76,-51.78,2022
+Milho,4300406,Alegrete,Sudoeste,16,4412.5,15535.0,3706.25,56.79,-74.83,2022
+Milho,4300455,Alegria,Noroeste,16,1649.12,8686.94,5255.7,29.76,-53.58,2012
+Milho,4300471,Almirante Tamandaré do Sul,Noroeste,16,1380.38,9765.44,7735.17,33.27,-62.99,2022
+Milho,4300505,Alpestre,Noroeste,16,5593.75,23513.06,4185.75,28.98,-72.38,2012
+Milho,4300638,Amaral Ferrador,Sudeste,16,1626.25,4238.0,2583.3,33.21,-61.16,2020
+Milho,4300646,Ametista do Sul,Noroeste,16,1034.38,3848.06,4002.38,36.58,-64.49,2021
+Milho,4300661,André da Rocha,Nordeste,16,3337.5,18222.5,5767.75,42.89,-70.17,2012
+Milho,4300703,Anta Gorda,Nordeste,16,4978.12,26349.12,5265.01,32.9,-59.19,2022
+Milho,4300802,Antônio Prado,Nordeste,16,1901.5,11007.75,5797.46,29.28,-66.64,2022
+Milho,4300901,Aratiba,Noroeste,16,2571.88,15380.62,5962.5,40.16,-80.0,2021
+Milho,4301008,Arroio do Meio,Centro Oriental,16,1217.94,6111.75,5077.21,30.39,-73.0,2012
+Milho,4301206,Arroio do Tigre,Centro Oriental,16,4447.5,17897.81,4087.9,32.32,-68.37,2020
+Milho,4301305,Arroio Grande,Sudeste,16,1128.56,3678.44,3190.69,40.77,-61.37,2015
+Milho,4301404,Arvorezinha,Nordeste,16,2153.12,10355.44,4665.58,29.6,-57.05,2022
+Milho,4301552,Áurea,Noroeste,16,1559.38,8450.88,5856.27,39.33,-55.6,2022
+Milho,4301602,Bagé,Sudoeste,16,618.75,1172.5,2125.94,36.4,-20.66,2012
+Milho,4301651,Barão,Metropolitana de Porto Alegre,16,737.5,4132.94,5525.71,23.29,-22.42,2020
+Milho,4301701,Barão de Cotegipe,Noroeste,16,4376.75,31213.06,7228.77,26.33,-63.4,2022
+Milho,4301750,Barão do Triunfo,Metropolitana de Porto Alegre,16,1981.25,8422.44,4332.34,27.31,-52.43,2010
+Milho,4301800,Barracão,Noroeste,16,2026.25,11956.88,6299.06,32.2,-70.68,2022
+Milho,4301859,Barra do Guarita,Noroeste,16,636.88,3413.12,5243.17,31.07,-60.87,2022
+Milho,4301925,Barra do Rio Azul,Noroeste,16,1342.5,8274.88,6263.9,36.04,-73.4,2021
+Milho,4301958,Barra Funda,Noroeste,16,572.19,4199.88,7357.16,35.7,-79.12,2012
+Milho,4302006,Barros Cassal,Noroeste,16,2323.12,7608.25,3153.75,40.6,-76.99,2012
+Milho,4302055,Benjamin Constant do Sul,Noroeste,16,1021.88,5588.44,5692.47,40.06,-80.09,2012
+Milho,4302105,Bento Gonçalves,Nordeste,16,509.31,1913.38,3972.19,23.61,-41.91,2012
+Milho,4302154,Boa Vista das Missões,Noroeste,16,3113.44,22675.5,7567.52,33.37,-69.61,2012
+Milho,4302204,Boa Vista do Buricá,Noroeste,16,1923.12,8954.62,5170.62,31.49,-71.53,2012
+Milho,4302220,Boa Vista do Cadeado,Noroeste,16,2621.88,19752.31,7779.94,29.38,-82.51,2012
+Milho,4302238,Boa Vista do Incra,Noroeste,16,1855.62,14453.94,7709.45,19.85,-30.72,2020
+Milho,4302303,Bom Jesus,Nordeste,16,9540.62,51971.25,5359.94,25.07,-30.54,2022
+Milho,4302352,Bom Princípio,Metropolitana de Porto Alegre,16,501.88,2711.56,5243.12,30.93,-76.13,2020
+Milho,4302378,Bom Progresso,Noroeste,16,718.75,4943.06,6718.12,35.45,-82.97,2022
+Milho,4302451,Boqueirão do Leão,Centro Oriental,16,1408.75,5430.12,3818.75,34.4,-78.26,2020
+Milho,4302501,Bossoroca,Noroeste,16,1825.62,10860.25,5436.3,42.28,-56.33,2012
+Milho,4302600,Braga,Noroeste,16,1095.62,6927.0,6420.57,29.98,-60.07,2021
+Milho,4302808,Caçapava do Sul,Sudeste,16,1706.88,2836.12,1675.44,49.49,-75.79,2020
+Milho,4302907,Cacequi,Centro Ocidental,16,686.25,1658.31,2435.71,46.17,-69.47,2023
+Milho,4303004,Cachoeira do Sul,Centro Oriental,16,4719.06,26281.69,5625.67,29.29,-44.38,2020
+Milho,4303202,Cacique Doble,Noroeste,16,1506.25,10752.19,7537.41,30.29,-57.53,2021
+Milho,4303301,Caibaté,Noroeste,16,2732.0,13231.06,5039.41,40.96,-79.65,2012
+Milho,4303400,Caiçara,Noroeste,16,3674.44,16637.56,4728.74,35.03,-54.45,2021
+Milho,4303509,Camaquã,Metropolitana de Porto Alegre,16,3967.5,14988.38,3659.43,27.04,-63.33,2020
+Milho,4303558,Camargo,Noroeste,16,517.5,3577.5,6842.1,33.42,-84.65,2022
+Milho,4303673,Campestre da Serra,Nordeste,16,1978.12,11869.06,6314.06,33.9,-75.05,2022
+Milho,4303707,Campina das Missões,Noroeste,16,2436.75,8772.19,4282.73,34.21,-75.96,2012
+Milho,4303806,Campinas do Sul,Noroeste,16,1790.94,14320.75,8016.88,35.77,-71.28,2022
+Milho,4304002,Campo Novo,Noroeste,16,3012.5,22324.69,7421.82,26.53,-50.16,2022
+Milho,4304200,Candelária,Centro Oriental,16,6647.38,27945.25,4130.31,23.41,-53.97,2020
+Milho,4304309,Cândido Godói,Noroeste,16,3554.0,15196.81,4873.15,42.04,-67.42,2012
+Milho,4304358,Candiota,Sudeste,16,1300.0,2480.5,1899.49,34.93,-46.61,2023
+Milho,4304507,Canguçu,Sudeste,16,15700.0,50298.25,3340.0,37.2,-63.69,2012
+Milho,4304622,Capão Bonito do Sul,Nordeste,16,3806.25,28296.94,7564.09,21.34,-41.81,2022
+Milho,4304655,Capão do Cipó,Centro Ocidental,16,1320.94,7635.0,6371.9,34.13,-62.68,2011
+Milho,4304663,Capão do Leão,Sudeste,16,514.69,1392.62,2813.15,32.38,-56.96,2020
+Milho,4304705,Carazinho,Noroeste,16,3421.88,24344.62,7704.2,35.85,-74.27,2012
+Milho,4304713,Caraá,Metropolitana de Porto Alegre,16,1100.0,2681.88,2562.5,44.51,-4.84,2024
+Milho,4304804,Carlos Barbosa,Nordeste,16,765.0,4838.38,6306.89,16.4,-25.93,2022
+Milho,4304853,Carlos Gomes,Noroeste,16,1437.5,8754.38,6468.03,31.29,-45.24,2022
+Milho,4304903,Casca,Noroeste,16,3031.25,22893.75,7618.75,30.45,-67.86,2022
+Milho,4304952,Caseiros,Noroeste,16,1050.0,6911.25,6834.38,26.42,-58.33,2022
+Milho,4305009,Catuípe,Noroeste,16,2210.62,16753.0,7558.98,18.93,-27.59,2011
+Milho,4305108,Caxias do Sul,Nordeste,16,5381.25,32896.88,6097.5,16.26,-19.04,2022
+Milho,4305116,Centenário,Noroeste,16,1325.0,7798.25,6192.5,30.49,-47.67,2022
+Milho,4305124,Cerrito,Sudeste,16,1296.88,3372.19,2788.44,42.38,-61.84,2024
+Milho,4305132,Cerro Branco,Centro Oriental,16,1082.0,3897.19,3587.15,29.95,-66.03,2020
+Milho,4305157,Cerro Grande,Noroeste,16,2250.0,12033.75,5306.25,40.62,-71.48,2022
+Milho,4305173,Cerro Grande do Sul,Metropolitana de Porto Alegre,16,2610.0,8614.0,3226.94,33.36,-73.41,2020
+Milho,4305207,Cerro Largo,Noroeste,16,2406.25,10602.0,4503.75,38.07,-50.49,2012
+Milho,4305306,Chapada,Noroeste,16,4249.38,31546.0,7004.28,41.74,-70.87,2021
+Milho,4305371,Charrua,Noroeste,16,996.88,8339.0,8598.75,20.1,-61.9,2022
+Milho,4305405,Chiapetta,Noroeste,16,2633.75,22884.0,8632.7,22.91,-42.12,2012
+Milho,4305447,Chuvisca,Metropolitana de Porto Alegre,16,3236.69,12249.88,3855.56,25.33,-40.16,2024
+Milho,4305504,Ciríaco,Noroeste,16,3388.12,21847.12,6731.06,26.93,-55.42,2012
+Milho,4305603,Colorado,Noroeste,16,2006.88,16067.25,7781.02,39.99,-74.97,2012
+Milho,4305702,Condor,Noroeste,16,2187.5,17971.0,8321.32,26.49,-35.14,2020
+Milho,4305801,Constantina,Noroeste,16,1406.94,8990.44,6405.46,40.79,-76.74,2012
+Milho,4305850,Coqueiros do Sul,Noroeste,16,1601.44,9941.88,6531.32,35.94,-71.63,2022
+Milho,4305900,Coronel Bicaco,Noroeste,16,3687.5,29501.88,8053.07,26.54,-71.29,2012
+Milho,4305959,Cotiporã,Nordeste,16,1109.38,7171.31,6444.43,23.27,-47.86,2022
+Milho,4305975,Coxilha,Noroeste,16,3550.0,29244.5,8181.08,28.6,-78.31,2022
+Milho,4306007,Crissiumal,Noroeste,16,3004.31,16852.62,5611.44,29.4,-61.13,2022
+Milho,4306056,Cristal,Sudeste,16,1587.5,5814.94,3575.0,33.91,-77.27,2020
+Milho,4306072,Cristal do Sul,Noroeste,16,2624.38,16483.94,6273.8,35.27,-73.06,2021
+Milho,4306106,Cruz Alta,Noroeste,16,6345.0,56309.88,8862.66,25.04,-43.31,2012
+Milho,4306130,Cruzaltense,Noroeste,16,1043.75,7018.25,6981.25,40.82,-80.36,2012
+Milho,4306205,Cruzeiro do Sul,Centro Oriental,16,2410.31,12249.81,5565.62,30.58,-59.55,2022
+Milho,4306304,David Canabarro,Noroeste,16,2028.12,12868.5,6519.52,26.11,-52.97,2022
+Milho,4306320,Derrubadas,Noroeste,16,2318.75,14087.19,6598.12,31.48,-63.06,2024
+Milho,4306379,Dilermando de Aguiar,Centro Ocidental,16,557.12,1657.31,2948.01,42.19,-89.34,2022
+Milho,4306429,Dois Irmãos das Missões,Noroeste,16,2210.31,16173.75,7342.49,37.25,-80.49,2012
+Milho,4306452,Dois Lajeados,Nordeste,16,1321.88,7989.06,6151.81,29.94,-62.86,2012
+Milho,4306502,Dom Feliciano,Metropolitana de Porto Alegre,16,5535.69,17264.0,3163.0,36.6,-74.59,2018
+Milho,4306601,Dom Pedrito,Sudoeste,16,1459.12,9469.19,5112.87,49.42,-31.33,2022
+Milho,4306700,Dona Francisca,Centro Ocidental,16,558.12,2104.62,3631.28,30.77,-61.02,2020
+Milho,4306734,Doutor Maurício Cardoso,Noroeste,16,7136.88,52107.25,7280.17,26.62,-72.3,2024
+Milho,4306759,Doutor Ricardo,Centro Oriental,16,1147.81,5573.88,4596.29,30.85,-74.55,2022
+Milho,4306809,Encantado,Centro Oriental,16,1005.38,4525.5,4322.98,21.75,-41.28,2012
+Milho,4306908,Encruzilhada do Sul,Sudeste,16,2721.88,6585.88,2472.5,49.91,-72.46,2020
+Milho,4306932,Entre-Ijuís,Noroeste,16,3185.31,22324.38,6872.21,28.02,-36.36,2022
+Milho,4306957,Entre Rios do Sul,Noroeste,16,687.5,4031.25,6331.84,44.12,-80.59,2012
+Milho,4306973,Erebango,Noroeste,16,1231.25,9102.5,7805.42,24.64,-42.68,2012
+Milho,4307005,Erechim,Noroeste,16,1555.62,11046.38,7387.5,27.29,-62.27,2012
+Milho,4307054,Ernestina,Noroeste,16,555.62,3340.56,6474.46,54.21,-89.05,2014
+Milho,4307104,Herval,Sudeste,16,1742.19,4091.5,2367.5,33.79,-67.31,2015
+Milho,4307203,Erval Grande,Noroeste,16,1043.75,5634.88,5372.5,37.96,-71.81,2012
+Milho,4307302,Erval Seco,Noroeste,16,3990.62,25243.0,6555.75,35.41,-73.28,2012
+Milho,4307401,Esmeralda,Nordeste,16,4996.88,30450.31,6332.19,27.06,-68.52,2022
+Milho,4307450,Esperança do Sul,Noroeste,16,1412.5,8931.62,6326.25,31.51,-75.91,2022
+Milho,4307500,Espumoso,Noroeste,16,1276.88,8946.75,6683.22,41.1,-92.85,2012
+Milho,4307807,Estrela,Centro Oriental,16,1506.25,8964.06,5836.25,27.41,-57.84,2012
+Milho,4307815,Estrela Velha,Centro Oriental,16,930.88,5816.19,6235.18,28.09,-30.63,2024
+Milho,4307831,Eugênio de Castro,Noroeste,16,2335.62,16645.06,7103.17,25.98,-36.27,2021
+Milho,4307864,Fagundes Varela,Nordeste,16,1750.0,9657.69,5501.3,33.47,-66.62,2022
+Milho,4307906,Farroupilha,Nordeste,16,1255.62,7036.25,5615.0,21.69,-38.23,2024
+Milho,4308003,Faxinal do Soturno,Centro Ocidental,16,548.44,1402.38,2566.96,38.24,-90.0,2012
+Milho,4308052,Faxinalzinho,Noroeste,16,518.75,3171.25,6512.5,41.51,-73.13,2021
+Milho,4308201,Flores da Cunha,Nordeste,16,541.88,2637.0,4979.12,31.89,-58.82,2022
+Milho,4308250,Floriano Peixoto,Noroeste,16,1346.88,9970.88,7520.0,28.43,-60.0,2022
+Milho,4308300,Fontoura Xavier,Noroeste,16,1415.0,5386.06,3848.99,47.63,-69.99,2020
+Milho,4308458,Fortaleza dos Valos,Noroeste,16,1962.5,16968.75,8693.02,25.66,-18.46,2022
+Milho,4308508,Frederico Westphalen,Noroeste,16,3683.75,19585.12,5388.64,31.25,-52.34,2021
+Milho,4308656,Garruchos,Sudoeste,16,1267.25,7014.44,5405.23,45.65,-59.56,2021
+Milho,4308706,Gaurama,Noroeste,16,1279.38,8844.62,7212.49,27.92,-48.18,2013
+Milho,4308805,General Câmara,Metropolitana de Porto Alegre,16,2756.25,9592.62,3608.75,41.79,-80.39,2020
+Milho,4308854,Gentil,Noroeste,16,700.0,4425.75,6808.75,38.19,-74.39,2023
+Milho,4308904,Getúlio Vargas,Noroeste,16,2459.38,19423.25,8224.24,22.83,-48.95,2022
+Milho,4309001,Giruá,Noroeste,16,5059.38,32334.38,6328.62,29.56,-68.5,2021
+Milho,4309100,Gramado,Metropolitana de Porto Alegre,16,701.31,3518.06,5023.81,30.96,-65.97,2020
+Milho,4309126,Gramado dos Loureiros,Noroeste,16,978.12,5866.5,6224.06,41.24,-76.2,2022
+Milho,4309159,Gramado Xavier,Centro Oriental,16,1481.88,5581.12,3768.75,18.05,-44.05,2020
+Milho,4309258,Guabiju,Nordeste,16,1165.62,8029.81,6905.38,28.98,-58.7,2022
+Milho,4309407,Guaporé,Nordeste,16,2573.12,16562.19,6548.06,35.09,-67.49,2022
+Milho,4309506,Guarani das Missões,Noroeste,16,2704.19,12727.12,4808.75,39.27,-59.45,2023
+Milho,4309571,Herveiras,Centro Oriental,16,1123.75,4231.12,3669.38,29.52,-55.02,2022
+Milho,4309605,Horizontina,Noroeste,16,4859.06,29248.19,6128.75,29.91,-48.54,2021
+Milho,4309654,Hulha Negra,Sudoeste,16,1488.94,2613.0,1840.98,27.98,-37.52,2012
+Milho,4309704,Humaitá,Noroeste,16,1578.12,10131.25,6420.0,32.28,-53.83,2022
+Milho,4309753,Ibarama,Centro Oriental,16,3081.25,9762.88,3097.13,34.6,-66.67,2020
+Milho,4309803,Ibiaçá,Noroeste,16,2806.25,23926.88,8741.25,25.13,-74.08,2022
+Milho,4309902,Ibiraiaras,Noroeste,16,3332.5,25456.31,7557.88,28.84,-70.06,2022
+Milho,4309951,Ibirapuitã,Noroeste,16,607.25,2796.75,4581.67,43.7,-79.77,2012
+Milho,4310009,Ibirubá,Noroeste,16,1879.69,16022.38,8766.01,23.1,-52.12,2012
+Milho,4310207,Ijuí,Noroeste,16,1070.62,6243.56,5561.86,25.52,-49.26,2012
+Milho,4310306,Ilópolis,Nordeste,16,1046.88,5525.56,5304.54,26.48,-52.63,2012
+Milho,4310405,Independência,Noroeste,16,4706.25,30279.5,6620.32,33.69,-71.25,2012
+Milho,4310413,Inhacorá,Noroeste,16,1172.81,7985.88,7093.17,35.06,-39.95,2012
+Milho,4310439,Ipê,Nordeste,16,3233.44,24084.12,7492.87,34.45,-69.09,2022
+Milho,4310462,Ipiranga do Sul,Noroeste,16,971.5,7534.88,7770.37,25.68,-51.68,2022
+Milho,4310504,Iraí,Noroeste,16,3412.5,18119.38,5143.12,35.09,-40.0,2022
+Milho,4310553,Itacurubi,Centro Ocidental,16,1315.38,3649.5,2658.77,67.77,-86.45,2022
+Milho,4310579,Itapuca,Nordeste,16,703.12,4350.62,6191.58,26.31,-66.46,2022
+Milho,4310603,Itaqui,Sudoeste,16,7576.25,37426.75,4988.64,38.97,-73.04,2023
+Milho,4310702,Itatiba do Sul,Noroeste,16,1567.5,8507.25,5493.75,37.15,-68.42,2012
+Milho,4310751,Ivorá,Centro Ocidental,16,1105.94,4333.19,3722.49,39.52,-80.91,2020
+Milho,4310850,Jaboticaba,Noroeste,16,1625.0,9998.94,5921.9,43.64,-82.29,2022
+Milho,4310876,Jacuizinho,Noroeste,16,1067.5,6884.38,6874.05,34.47,-45.28,2010
+Milho,4310900,Jacutinga,Noroeste,16,1884.38,15168.06,8224.49,23.19,-53.55,2022
+Milho,4311106,Jaguari,Centro Ocidental,16,2216.25,6928.12,3067.57,32.72,-63.84,2020
+Milho,4311122,Jaquirana,Nordeste,16,693.0,2704.62,3996.55,31.74,-48.58,2022
+Milho,4311130,Jari,Centro Ocidental,16,2051.88,10068.5,4981.04,27.24,-52.99,2012
+Milho,4311155,Jóia,Noroeste,16,2200.0,19551.62,8442.57,23.4,-28.8,2012
+Milho,4311205,Júlio de Castilhos,Centro Ocidental,16,2052.19,15057.5,7621.58,28.58,-53.64,2012
+Milho,4311239,Lagoa Bonita do Sul,Centro Oriental,16,1000.0,3218.88,3278.75,24.89,-44.0,2020
+Milho,4311254,Lagoão,Noroeste,16,2600.38,7742.06,2919.15,33.4,-71.67,2022
+Milho,4311270,Lagoa dos Três Cantos,Noroeste,16,751.88,5790.94,7763.53,38.52,-71.74,2012
+Milho,4311304,Lagoa Vermelha,Nordeste,16,6043.75,44340.62,7575.0,25.38,-65.8,2022
+Milho,4311429,Lajeado do Bugre,Noroeste,16,1859.38,11151.88,5881.25,39.81,-80.0,2012
+Milho,4311502,Lavras do Sul,Sudoeste,16,776.25,1114.5,1512.34,49.47,-76.59,2023
+Milho,4311601,Liberato Salzano,Noroeste,16,2025.0,11664.06,5556.25,33.89,-70.21,2012
+Milho,4311700,Machadinho,Noroeste,16,832.5,5641.62,7232.03,37.52,-70.97,2013
+Milho,4311718,Maçambará,Sudoeste,16,2593.69,16144.44,6241.4,36.22,-74.22,2012
+Milho,4311759,Manoel Viana,Sudoeste,16,3510.62,17566.5,4943.98,39.21,-63.97,2012
+Milho,4311775,Maquiné,Metropolitana de Porto Alegre,16,918.75,5586.88,6018.75,15.51,-40.0,2011
+Milho,4311809,Marau,Noroeste,16,2246.88,13331.69,6056.88,39.42,-68.99,2012
+Milho,4311908,Marcelino Ramos,Noroeste,16,2071.12,13294.38,6553.09,30.85,-61.13,2021
+Milho,4312005,Mariano Moro,Noroeste,16,1211.25,5995.12,4985.49,42.91,-74.7,2021
+Milho,4312054,Marques de Souza,Centro Oriental,16,565.62,2466.75,4406.88,25.18,-38.55,2020
+Milho,4312104,Mata,Centro Ocidental,16,1743.25,4332.38,2480.65,48.37,-75.89,2022
+Milho,4312138,Mato Castelhano,Noroeste,16,789.38,5450.88,6975.94,32.49,-76.77,2022
+Milho,4312153,Mato Leitão,Centro Oriental,16,1450.0,9752.5,6600.0,33.96,-72.44,2012
+Milho,4312179,Mato Queimado,Noroeste,16,1618.12,9109.81,6120.8,32.11,-49.91,2012
+Milho,4312203,Maximiliano de Almeida,Noroeste,16,1031.25,6668.75,6850.0,35.5,-54.99,2022
+Milho,4312302,Miraguaí,Noroeste,16,1440.62,6015.56,4054.82,40.42,-69.71,2012
+Milho,4312351,Montauri,Nordeste,16,1306.25,8318.69,6393.94,32.07,-82.74,2022
+Milho,4312377,Monte Alegre dos Campos,Nordeste,16,937.5,5684.0,5968.82,25.34,-66.58,2022
+Milho,4312450,Morro Redondo,Sudeste,16,1156.25,3779.5,3246.38,36.22,-80.96,2020
+Milho,4312500,Mostardas,Metropolitana de Porto Alegre,16,554.94,1563.56,2371.72,52.57,-38.18,2024
+Milho,4312609,Muçum,Centro Oriental,16,840.62,3971.38,4644.69,27.08,-55.19,2012
+Milho,4312617,Muitos Capões,Nordeste,16,17231.25,139310.62,8223.75,26.59,-62.84,2022
+Milho,4312625,Muliterno,Noroeste,16,884.38,6510.88,7266.9,28.11,-68.75,2022
+Milho,4312658,Não-Me-Toque,Noroeste,16,3061.75,22837.69,7591.13,37.84,-70.87,2012
+Milho,4312708,Nonoai,Noroeste,16,2272.5,17139.62,7417.77,37.94,-69.35,2021
+Milho,4312757,Nova Alvorada,Nordeste,16,881.25,5907.31,6761.56,23.53,-58.18,2022
+Milho,4312807,Nova Araçá,Nordeste,16,1465.0,9360.81,6320.02,37.17,-62.88,2022
+Milho,4312906,Nova Bassano,Nordeste,16,4687.5,31331.0,6701.62,33.55,-54.37,2022
+Milho,4312955,Nova Boa Vista,Noroeste,16,590.62,3636.25,6522.5,35.32,-75.0,2012
+Milho,4313011,Nova Candelária,Noroeste,16,1206.25,5665.12,5501.25,37.81,-64.25,2022
+Milho,4313037,Nova Esperança do Sul,Centro Ocidental,16,795.62,2694.12,3473.21,37.58,-66.67,2023
+Milho,4313102,Nova Palma,Centro Ocidental,16,1442.5,6173.44,4336.24,31.63,-69.59,2020
+Milho,4313201,Nova Petrópolis,Metropolitana de Porto Alegre,16,1579.44,8006.81,5123.28,20.21,-36.21,2022
+Milho,4313300,Nova Prata,Nordeste,16,1915.62,11586.88,6030.93,26.54,-55.06,2023
+Milho,4313334,Nova Ramada,Noroeste,16,692.06,4964.56,7249.19,26.19,-64.89,2012
+Milho,4313359,Nova Roma do Sul,Nordeste,16,866.88,5218.19,5919.8,24.91,-60.0,2022
+Milho,4313391,Novo Cabrais,Centro Oriental,16,1240.62,4218.81,3432.44,36.63,-75.11,2020
+Milho,4313409,Novo Hamburgo,Metropolitana de Porto Alegre,16,628.12,2584.94,4109.31,20.86,-37.61,2024
+Milho,4313425,Novo Machado,Noroeste,16,4731.88,30798.06,6411.99,28.4,-56.12,2021
+Milho,4313441,Novo Tiradentes,Noroeste,16,1538.75,9528.38,6231.25,37.19,-76.3,2022
+Milho,4313466,Novo Xingu,Noroeste,16,706.25,4222.25,6353.23,44.02,-77.98,2012
+Milho,4313490,Novo Barreiro,Noroeste,16,1550.0,8697.12,5677.5,39.33,-87.87,2012
+Milho,4313607,Paim Filho,Noroeste,16,1750.0,11556.38,7005.0,29.59,-60.5,2022
+Milho,4313706,Palmeira das Missões,Noroeste,16,11581.25,96941.25,8124.57,30.21,-57.17,2012
+Milho,4313805,Palmitinho,Noroeste,16,1962.5,7829.88,4188.75,39.49,-56.38,2012
+Milho,4313904,Panambi,Noroeste,16,1704.06,12384.94,7205.49,26.48,-57.46,2012
+Milho,4313953,Pantano Grande,Centro Oriental,16,705.62,4087.75,6222.94,34.08,-46.54,2010
+Milho,4314001,Paraí,Nordeste,16,2012.5,13233.0,6495.36,31.76,-70.09,2022
+Milho,4314027,Paraíso do Sul,Centro Oriental,16,2803.12,10602.06,3675.74,45.74,-87.78,2020
+Milho,4314068,Passa Sete,Centro Oriental,16,1865.62,5256.81,2851.01,29.91,-37.04,2012
+Milho,4314076,Passo do Sobrado,Centro Oriental,16,1743.75,7970.38,4426.31,36.33,-56.69,2020
+Milho,4314100,Passo Fundo,Noroeste,16,1681.25,11745.88,7251.25,28.51,-55.56,2012
+Milho,4314134,Paulo Bento,Noroeste,16,1219.38,9289.88,7451.69,30.95,-69.79,2012
+Milho,4314159,Paverama,Centro Oriental,16,902.75,3140.44,3529.82,33.67,-76.79,2022
+Milho,4314308,Pejuçara,Noroeste,16,1470.44,14369.31,9784.62,24.01,-36.8,2012
+Milho,4314407,Pelotas,Sudeste,16,8635.0,40919.88,4615.5,31.69,-67.75,2020
+Milho,4314456,Pinhal,Noroeste,16,1612.5,8305.62,5116.25,37.27,-65.38,2022
+Milho,4314464,Pinhal da Serra,Nordeste,16,3346.88,20553.31,6314.08,23.22,-48.54,2022
+Milho,4314472,Pinhal Grande,Centro Ocidental,16,1313.44,6442.38,5177.35,34.7,-48.15,2012
+Milho,4314498,Pinheirinho do Vale,Noroeste,16,1224.38,6339.19,5208.49,36.86,-65.83,2021
+Milho,4314506,Pinheiro Machado,Sudeste,16,1230.62,2348.56,1920.91,33.77,-67.79,2020
+Milho,4314555,Pirapó,Noroeste,16,912.31,4248.19,4816.9,38.51,-70.27,2012
+Milho,4314605,Piratini,Sudeste,16,2461.88,6931.12,2881.55,45.31,-83.33,2020
+Milho,4314704,Planalto,Noroeste,16,2400.0,10629.38,4409.77,31.59,-59.63,2012
+Milho,4314779,Pontão,Noroeste,16,2956.25,21953.94,7424.75,30.38,-69.23,2012
+Milho,4314787,Ponte Preta,Noroeste,16,835.62,5523.81,7095.77,36.1,-64.02,2012
+Milho,4315008,Porto Lucena,Noroeste,16,1969.06,8471.12,4521.53,30.41,-63.59,2012
+Milho,4315057,Porto Mauá,Noroeste,16,1209.38,6881.5,5843.12,32.5,-66.86,2021
+Milho,4315073,Porto Vera Cruz,Noroeste,16,905.0,3281.44,4118.52,27.88,-54.51,2012
+Milho,4315107,Porto Xavier,Noroeste,16,1208.12,3669.62,3136.25,42.09,-64.61,2021
+Milho,4315131,Pouso Novo,Centro Oriental,16,868.12,4183.25,4678.78,24.52,-50.56,2024
+Milho,4315156,Progresso,Centro Oriental,16,1531.88,7348.56,4672.55,37.81,-72.41,2012
+Milho,4315172,Protásio Alves,Nordeste,16,781.12,5046.88,6624.43,31.12,-63.57,2022
+Milho,4315206,Putinga,Nordeste,16,1993.75,10465.75,5171.63,35.25,-67.6,2023
+Milho,4315313,Quatro Irmãos,Noroeste,16,1737.5,13928.75,8315.03,29.95,-66.68,2022
+Milho,4315321,Quevedos,Centro Ocidental,16,769.69,2798.06,3954.44,36.34,-90.22,2012
+Milho,4315404,Redentora,Noroeste,16,2253.12,11748.0,5180.63,43.83,-89.86,2012
+Milho,4315453,Relvado,Centro Oriental,16,1197.5,6294.31,5092.3,30.41,-51.28,2012
+Milho,4315503,Restinga Sêca,Centro Ocidental,16,1258.75,5203.06,4054.08,23.96,-58.99,2020
+Milho,4315552,Rio dos Índios,Noroeste,16,1605.0,10306.94,6467.58,33.64,-53.01,2012
+Milho,4315701,Rio Pardo,Centro Oriental,16,3606.88,18369.38,5293.32,31.8,-38.46,2012
+Milho,4315800,Roca Sales,Centro Oriental,16,2178.12,11588.75,5306.53,27.57,-68.36,2012
+Milho,4315909,Rodeio Bonito,Noroeste,16,2431.25,13590.62,5687.56,39.83,-79.45,2021
+Milho,4315958,Rolador,Noroeste,16,1710.0,10030.31,5948.56,33.87,-59.86,2012
+Milho,4316006,Rolante,Metropolitana de Porto Alegre,16,739.06,2980.0,4157.81,20.18,-49.38,2021
+Milho,4316105,Ronda Alta,Noroeste,16,2951.56,18653.12,6541.66,40.23,-79.24,2012
+Milho,4316204,Rondinha,Noroeste,16,1562.81,9726.25,6487.85,38.17,-82.53,2012
+Milho,4316303,Roque Gonzales,Noroeste,16,2398.12,11555.06,5011.29,34.65,-71.7,2012
+Milho,4316402,Rosário do Sul,Sudoeste,16,1363.12,3432.69,2513.64,33.27,-56.91,2020
+Milho,4316428,Sagrada Família,Noroeste,16,1818.75,10359.38,5732.86,41.57,-85.87,2012
+Milho,4316436,Saldanha Marinho,Noroeste,16,1185.56,8910.62,7966.0,34.21,-60.53,2012
+Milho,4316451,Salto do Jacuí,Noroeste,16,2287.5,15519.5,6819.81,25.13,-42.43,2022
+Milho,4316477,Salvador das Missões,Noroeste,16,1121.88,5460.69,5191.31,39.42,-72.08,2021
+Milho,4316501,Salvador do Sul,Metropolitana de Porto Alegre,13,999.92,4129.15,4132.21,18.41,-32.68,2020
+Milho,4316600,Sananduva,Noroeste,16,2468.75,19818.88,8148.75,23.64,-67.13,2022
+Milho,4316709,Santa Bárbara do Sul,Noroeste,16,4482.06,43724.94,9954.67,19.92,-42.49,2012
+Milho,4316733,Santa Cecília do Sul,Noroeste,16,802.19,5696.06,7379.15,33.51,-71.01,2022
+Milho,4316758,Santa Clara do Sul,Centro Oriental,16,1328.75,6594.94,5016.65,26.76,-45.63,2023
+Milho,4316808,Santa Cruz do Sul,Centro Oriental,16,6383.12,24167.44,3894.07,20.93,-49.25,2020
+Milho,4316907,Santa Maria,Centro Ocidental,16,765.62,2832.69,3937.18,24.58,-48.39,2022
+Milho,4316956,Santa Maria do Herval,Metropolitana de Porto Alegre,16,937.5,4422.19,4926.57,28.44,-53.85,2020
+Milho,4317004,Santana da Boa Vista,Sudeste,16,2044.38,3534.44,1761.25,37.18,-76.67,2020
+Milho,4317103,Sant'Ana do Livramento,Sudoeste,16,3559.12,7252.56,2035.94,32.21,-60.53,2020
+Milho,4317202,Santa Rosa,Noroeste,16,3213.94,19652.81,6367.47,25.46,-43.08,2012
+Milho,4317400,Santiago,Centro Ocidental,16,2853.31,10418.25,3712.42,38.97,-76.82,2012
+Milho,4317509,Santo Ângelo,Noroeste,16,3819.38,23114.69,6224.62,34.9,-70.91,2012
+Milho,4317558,Santo Antônio do Palma,Noroeste,16,721.88,4436.88,6378.62,37.3,-72.79,2022
+Milho,4317608,Santo Antônio da Patrulha,Metropolitana de Porto Alegre,16,2000.0,6887.5,3443.75,9.06,-14.29,2010
+Milho,4317707,Santo Antônio das Missões,Noroeste,16,3698.44,29804.75,7575.94,32.47,-56.18,2011
+Milho,4317756,Santo Antônio do Planalto,Noroeste,16,1823.81,13281.69,8042.19,36.41,-67.09,2022
+Milho,4317806,Santo Augusto,Noroeste,16,4359.38,35660.69,8337.7,23.38,-35.06,2012
+Milho,4317905,Santo Cristo,Noroeste,16,5216.19,24916.19,5310.53,34.81,-43.74,2012
+Milho,4317954,Santo Expedito do Sul,Noroeste,16,626.25,4145.25,7370.43,31.18,-72.87,2022
+Milho,4318002,São Borja,Sudoeste,16,6587.5,41263.75,5775.23,36.2,-41.37,2023
+Milho,4318051,São Domingos do Sul,Noroeste,16,998.75,7051.88,6917.5,26.78,-49.18,2020
+Milho,4318101,São Francisco de Assis,Sudoeste,16,2536.25,8339.06,3450.18,53.47,-75.48,2012
+Milho,4318200,São Francisco de Paula,Nordeste,16,3196.56,18070.62,5540.16,29.23,-31.91,2020
+Milho,4318309,São Gabriel,Sudoeste,16,2236.88,6105.56,2432.68,43.38,-71.43,2012
+Milho,4318408,São Jerônimo,Metropolitana de Porto Alegre,16,1468.12,4039.81,2962.14,31.98,-64.52,2020
+Milho,4318424,São João da Urtiga,Noroeste,16,1568.12,11467.62,7738.99,26.68,-66.29,2022
+Milho,4318440,São Jorge,Nordeste,16,1813.12,13438.56,7472.83,23.03,-41.26,2022
+Milho,4318457,São José das Missões,Noroeste,16,1153.75,5929.38,5210.03,32.5,-51.39,2012
+Milho,4318465,São José do Herval,Noroeste,16,531.25,2480.81,4534.12,29.84,-67.04,2024
+Milho,4318499,São José do Inhacorá,Noroeste,16,785.0,3294.88,5117.82,37.63,-60.44,2012
+Milho,4318606,São José do Ouro,Noroeste,16,1815.62,14482.12,8242.5,27.81,-52.0,2013
+Milho,4318622,São José dos Ausentes,Nordeste,16,889.38,4615.44,5026.69,27.36,-62.44,2012
+Milho,4318804,São Lourenço do Sul,Sudeste,16,13875.0,54652.75,3831.75,33.74,-61.81,2018
+Milho,4318903,São Luiz Gonzaga,Noroeste,16,8838.12,71762.0,7677.25,28.7,-49.04,2012
+Milho,4319000,São Marcos,Nordeste,16,661.25,3674.06,5452.24,19.71,-29.98,2020
+Milho,4319109,São Martinho,Noroeste,16,1976.88,13748.44,6944.26,31.6,-61.05,2022
+Milho,4319125,São Martinho da Serra,Centro Ocidental,16,563.12,2533.75,4842.64,43.8,-59.47,2012
+Milho,4319158,São Miguel das Missões,Noroeste,16,6084.38,47682.88,7732.93,24.17,-36.77,2012
+Milho,4319208,São Nicolau,Noroeste,16,2391.19,15950.44,6141.74,42.53,-74.27,2012
+Milho,4319307,São Paulo das Missões,Noroeste,16,3637.5,15500.31,4603.12,42.99,-78.41,2012
+Milho,4319364,São Pedro das Missões,Noroeste,16,1118.75,6464.38,5605.73,41.39,-80.57,2012
+Milho,4319372,São Pedro do Butiá,Noroeste,16,1893.12,9803.38,5709.88,35.23,-58.29,2012
+Milho,4319406,São Pedro do Sul,Centro Ocidental,16,2281.25,8106.94,3417.13,38.09,-58.13,2012
+Milho,4319604,São Sepé,Centro Ocidental,16,2476.25,6840.75,2667.19,44.13,-48.19,2020
+Milho,4319703,São Valentim,Noroeste,16,1420.0,9275.75,6549.08,32.42,-66.63,2012
+Milho,4319737,São Valério do Sul,Noroeste,16,737.38,4637.25,6395.15,34.03,-59.63,2022
+Milho,4319802,São Vicente do Sul,Centro Ocidental,16,671.62,1815.44,2901.08,32.83,-53.8,2012
+Milho,4320107,Sarandi,Noroeste,16,2255.62,15134.44,7121.09,31.51,-55.81,2012
+Milho,4320206,Seberi,Noroeste,16,5938.12,37025.12,6379.44,31.45,-66.24,2022
+Milho,4320230,Sede Nova,Noroeste,16,887.5,6861.56,7537.5,32.8,-69.66,2022
+Milho,4320263,Segredo,Centro Oriental,16,2928.31,9865.38,3269.47,30.34,-60.28,2020
+Milho,4320305,Selbach,Noroeste,16,1023.12,7770.38,7733.37,40.85,-70.73,2012
+Milho,4320321,Senador Salgado Filho,Noroeste,16,1204.31,5665.12,5154.69,34.94,-67.04,2021
+Milho,4320354,Sentinela do Sul,Metropolitana de Porto Alegre,16,1065.62,4275.38,3985.0,19.39,-30.11,2020
+Milho,4320404,Serafina Corrêa,Nordeste,16,1795.62,11114.56,6124.85,29.79,-64.46,2022
+Milho,4320503,Sertão,Noroeste,16,3256.25,24457.0,7777.51,28.65,-63.81,2022
+Milho,4320552,Sertão Santana,Metropolitana de Porto Alegre,16,1383.12,4689.12,3429.4,30.13,-53.81,2020
+Milho,4320578,Sete de Setembro,Noroeste,16,906.88,4189.56,4813.34,41.08,-75.47,2022
+Milho,4320602,Severiano de Almeida,Noroeste,16,1830.0,10222.12,5917.5,30.73,-54.72,2022
+Milho,4320677,Sinimbu,Centro Oriental,16,3798.75,14088.38,3698.12,27.87,-56.6,2020
+Milho,4320701,Sobradinho,Centro Oriental,16,1184.69,4812.94,4044.38,35.54,-75.48,2020
+Milho,4320800,Soledade,Noroeste,16,1265.62,5101.44,4276.5,41.79,-82.92,2022
+Milho,4320909,Tapejara,Noroeste,16,1473.75,11768.06,8325.0,20.87,-57.14,2022
+Milho,4321006,Tapera,Noroeste,16,983.44,8395.56,8489.67,27.78,-82.54,2012
+Milho,4321303,Taquari,Centro Oriental,16,1031.56,3944.75,3813.27,35.09,-57.62,2020
+Milho,4321329,Taquaruçu do Sul,Noroeste,16,1534.88,7027.25,4603.94,27.64,-54.42,2012
+Milho,4321402,Tenente Portela,Noroeste,16,2518.75,15069.38,6050.0,37.82,-66.37,2022
+Milho,4321451,Teutônia,Centro Oriental,16,1890.62,11823.25,5996.86,31.52,-61.93,2012
+Milho,4321477,Tiradentes do Sul,Noroeste,16,2050.0,10372.5,5325.0,35.12,-71.85,2022
+Milho,4321493,Toropi,Centro Ocidental,16,1450.0,3687.44,2449.57,39.48,-63.13,2022
+Milho,4321634,Três Arroios,Noroeste,16,1831.25,10988.19,6352.49,47.2,-71.27,2021
+Milho,4321808,Três de Maio,Noroeste,16,4773.38,26968.94,5832.23,35.03,-71.98,2021
+Milho,4321857,Três Palmeiras,Noroeste,16,1593.75,9545.62,6093.75,41.49,-81.1,2012
+Milho,4321907,Três Passos,Noroeste,16,2662.5,16692.19,6238.32,35.45,-71.96,2022
+Milho,4321956,Trindade do Sul,Noroeste,16,2131.25,11014.06,5621.72,46.08,-76.27,2012
+Milho,4322004,Triunfo,Metropolitana de Porto Alegre,16,858.5,3899.56,4350.57,41.11,-56.46,2020
+Milho,4322103,Tucunduva,Noroeste,16,4357.0,26878.06,6176.57,31.47,-62.93,2021
+Milho,4322152,Tunas,Noroeste,16,1397.88,3717.12,2389.65,46.36,-87.46,2022
+Milho,4322186,Tupanci do Sul,Noroeste,16,928.12,6095.69,7439.38,27.46,-64.21,2022
+Milho,4322202,Tupanciretã,Centro Ocidental,16,3122.06,27826.56,9015.98,28.95,-55.48,2010
+Milho,4322301,Tuparendi,Noroeste,16,4120.88,21605.25,5544.81,33.45,-76.86,2021
+Milho,4322327,Turuçu,Sudeste,16,1336.75,5135.12,3829.62,31.72,-62.73,2020
+Milho,4322343,Ubiretama,Noroeste,16,840.62,2792.81,4723.85,37.99,-67.34,2012
+Milho,4322350,União da Serra,Nordeste,16,2113.12,12648.88,5949.38,30.09,-67.75,2023
+Milho,4322509,Vacaria,Nordeste,16,11588.12,82162.69,7178.63,23.7,-64.84,2022
+Milho,4322525,Vale Verde,Metropolitana de Porto Alegre,16,721.25,2493.56,3563.24,18.75,-37.63,2020
+Milho,4322533,Vale do Sol,Centro Oriental,16,4355.0,17717.75,3984.06,22.44,-54.82,2020
+Milho,4322558,Vanini,Noroeste,16,582.5,4320.38,7494.67,21.62,-38.76,2022
+Milho,4322608,Venâncio Aires,Centro Oriental,16,12176.88,69179.06,5643.13,15.95,-27.75,2020
+Milho,4322707,Vera Cruz,Centro Oriental,16,3766.44,14954.38,3863.24,27.12,-50.25,2020
+Milho,4322806,Veranópolis,Nordeste,16,1018.12,6285.0,6272.53,26.42,-71.22,2022
+Milho,4322855,Vespasiano Corrêa,Centro Oriental,16,1237.5,7015.75,5553.04,21.48,-52.06,2022
+Milho,4322905,Viadutos,Noroeste,16,2670.0,17198.62,6766.01,27.01,-52.71,2022
+Milho,4323101,Vicente Dutra,Noroeste,16,4247.5,22197.62,5300.5,26.46,-57.16,2021
+Milho,4323200,Victor Graeff,Noroeste,16,1612.5,11374.62,6996.25,42.74,-87.78,2022
+Milho,4323309,Vila Flores,Nordeste,16,934.69,5314.69,5789.64,28.15,-53.85,2012
+Milho,4323358,Vila Lângaro,Noroeste,16,1321.88,10867.5,8231.25,27.47,-57.14,2022
+Milho,4323408,Vila Maria,Noroeste,16,1465.62,11356.12,7603.94,32.12,-70.25,2020
+Milho,4323457,Vila Nova do Sul,Centro Ocidental,16,1081.25,3182.88,2860.0,48.96,-84.86,2022
+Milho,4323507,Vista Alegre,Noroeste,16,1045.62,4839.25,4713.92,34.09,-56.4,2012
+Milho,4323606,Vista Alegre do Prata,Nordeste,16,1147.19,7290.06,6058.82,37.21,-81.04,2022
+Milho,4323705,Vista Gaúcha,Noroeste,16,1321.88,8488.25,6420.0,26.71,-48.05,2021
+Milho,4323754,Vitória das Missões,Noroeste,16,1875.31,8943.88,4793.41,37.38,-81.28,2012
+Soja,4300034,Aceguá,Sudoeste,16,20137.5,38656.81,1955.94,26.08,-48.64,2020
+Soja,4300059,Água Santa,Noroeste,16,13709.38,43774.31,3191.25,24.0,-50.54,2012
+Soja,4300109,Agudo,Centro Ocidental,16,833.12,1888.38,2401.18,35.38,-73.18,2020
+Soja,4300208,Ajuricaba,Noroeste,16,18996.88,50687.0,2667.72,38.25,-74.34,2022
+Soja,4300307,Alecrim,Noroeste,16,2137.94,4876.06,2306.42,38.01,-76.2,2012
+Soja,4300406,Alegrete,Sudoeste,16,47066.12,74844.81,1818.4,43.11,-75.17,2012
+Soja,4300455,Alegria,Noroeste,16,7367.31,16580.56,2270.01,35.72,-82.77,2012
+Soja,4300471,Almirante Tamandaré do Sul,Noroeste,16,16195.12,51889.25,3192.59,28.06,-54.82,2023
+Soja,4300505,Alpestre,Noroeste,16,898.19,2132.31,2337.69,22.58,-47.48,2012
+Soja,4300554,Alto Alegre,Noroeste,16,6076.75,16688.19,2737.35,32.28,-66.8,2022
+Soja,4300638,Amaral Ferrador,Sudeste,16,1793.12,3615.38,2137.5,22.97,-39.55,2024
+Soja,4300646,Ametista do Sul,Noroeste,16,506.88,1210.56,2417.53,26.32,-57.65,2014
+Soja,4300661,André da Rocha,Nordeste,16,13767.19,39439.0,2819.69,30.59,-54.3,2020
+Soja,4300851,Arambaré,Metropolitana de Porto Alegre,16,7888.06,19034.62,2353.78,25.94,-59.49,2020
+Soja,4300901,Aratiba,Noroeste,16,1031.25,2954.38,2852.08,28.32,-60.0,2012
+Soja,4301008,Arroio do Meio,Centro Oriental,16,1016.44,3066.69,2981.38,27.23,-56.8,2022
+Soja,4301107,Arroio dos Ratos,Metropolitana de Porto Alegre,16,2929.25,5877.0,2199.97,26.06,-60.08,2020
+Soja,4301206,Arroio do Tigre,Centro Oriental,16,8314.69,23945.44,2885.0,26.22,-52.83,2020
+Soja,4301305,Arroio Grande,Sudeste,16,40303.75,85896.69,2156.75,30.18,-62.55,2016
+Soja,4301404,Arvorezinha,Nordeste,16,1165.62,3076.19,2658.7,23.5,-35.97,2012
+Soja,4301503,Augusto Pestana,Noroeste,16,19955.56,49170.69,2438.38,40.91,-78.32,2022
+Soja,4301552,Áurea,Noroeste,16,6609.94,20016.19,3013.13,27.52,-49.97,2013
+Soja,4301602,Bagé,Sudoeste,16,31437.5,59588.0,1896.06,16.91,-22.19,2016
+Soja,4301701,Barão de Cotegipe,Noroeste,16,6902.81,20408.69,2923.75,20.26,-46.57,2022
+Soja,4301750,Barão do Triunfo,Metropolitana de Porto Alegre,16,717.19,1682.62,2588.56,26.58,-63.3,2020
+Soja,4301800,Barracão,Noroeste,16,24362.5,77285.0,3163.81,18.16,-39.62,2022
+Soja,4301859,Barra do Guarita,Noroeste,16,1718.75,4138.81,2405.64,26.64,-66.67,2022
+Soja,4301875,Barra do Quaraí,Sudoeste,14,984.36,2712.07,2799.04,28.1,-53.37,2013
+Soja,4301909,Barra do Ribeiro,Metropolitana de Porto Alegre,16,4436.56,12620.69,2641.86,27.59,-44.48,2020
+Soja,4301925,Barra do Rio Azul,Noroeste,16,944.38,2791.31,2991.81,22.91,-63.77,2012
+Soja,4301958,Barra Funda,Noroeste,16,3348.25,10207.44,3031.07,28.35,-60.27,2012
+Soja,4302006,Barros Cassal,Noroeste,16,8034.38,19293.44,2468.75,25.46,-48.89,2023
+Soja,4302055,Benjamin Constant do Sul,Noroeste,16,1164.69,3185.88,2721.91,27.58,-78.82,2012
+Soja,4302154,Boa Vista das Missões,Noroeste,16,14812.81,44746.31,3016.31,23.65,-59.27,2022
+Soja,4302204,Boa Vista do Buricá,Noroeste,16,2765.62,6293.06,2246.25,36.28,-80.49,2012
+Soja,4302220,Boa Vista do Cadeado,Noroeste,16,40446.25,107468.5,2663.09,36.29,-74.26,2022
+Soja,4302238,Boa Vista do Incra,Noroeste,16,29525.0,80002.75,2732.86,32.4,-61.52,2020
+Soja,4302303,Bom Jesus,Nordeste,16,9900.0,29225.62,2953.82,20.67,-36.15,2012
+Soja,4302378,Bom Progresso,Noroeste,16,4175.0,11869.5,2843.44,21.92,-60.36,2022
+Soja,4302451,Boqueirão do Leão,Centro Oriental,16,820.0,2028.94,2412.5,29.38,-66.23,2020
+Soja,4302501,Bossoroca,Noroeste,16,45448.12,91833.5,2028.9,48.14,-77.98,2023
+Soja,4302584,Bozano,Noroeste,16,12797.81,32894.44,2569.23,40.94,-81.83,2022
+Soja,4302600,Braga,Noroeste,16,7611.88,20269.75,2660.0,28.38,-73.2,2022
+Soja,4302709,Butiá,Metropolitana de Porto Alegre,16,8300.0,20947.0,2510.0,27.17,-67.42,2020
+Soja,4302808,Caçapava do Sul,Sudeste,16,20688.12,39554.0,2047.06,30.27,-57.28,2020
+Soja,4302907,Cacequi,Centro Ocidental,16,25853.12,48572.12,1973.77,29.72,-49.98,2022
+Soja,4303004,Cachoeira do Sul,Centro Oriental,16,109887.88,260537.62,2347.26,28.97,-49.24,2012
+Soja,4303202,Cacique Doble,Noroeste,16,8754.06,28559.88,3261.56,19.82,-58.3,2022
+Soja,4303301,Caibaté,Noroeste,16,14118.12,33169.38,2346.04,44.85,-86.43,2022
+Soja,4303400,Caiçara,Noroeste,16,2990.62,7314.88,2408.75,25.78,-65.01,2022
+Soja,4303509,Camaquã,Metropolitana de Porto Alegre,16,22325.62,54918.56,2384.77,28.89,-42.59,2024
+Soja,4303558,Camargo,Noroeste,16,6118.75,18382.06,3026.69,25.45,-66.18,2022
+Soja,4303673,Campestre da Serra,Nordeste,16,5914.06,17785.31,3017.7,20.09,-46.79,2022
+Soja,4303707,Campina das Missões,Noroeste,16,5477.75,11862.81,2062.91,44.44,-92.51,2022
+Soja,4303806,Campinas do Sul,Noroeste,16,15761.88,46508.0,2945.62,23.28,-42.99,2025
+Soja,4304002,Campo Novo,Noroeste,16,11506.25,32882.25,2847.65,27.2,-64.63,2022
+Soja,4304101,Campos Borges,Noroeste,16,8826.94,22504.88,2555.94,37.56,-66.57,2022
+Soja,4304200,Candelária,Centro Oriental,16,17454.69,51246.94,2923.12,16.81,-35.8,2020
+Soja,4304309,Cândido Godói,Noroeste,16,9287.5,21871.94,2330.34,39.8,-83.29,2022
+Soja,4304358,Candiota,Sudeste,16,12410.12,22315.94,1859.25,41.06,-94.96,2020
+Soja,4304507,Canguçu,Sudeste,16,38008.75,82177.56,2163.75,29.92,-54.29,2016
+Soja,4304622,Capão Bonito do Sul,Nordeste,16,23287.5,76123.69,3253.12,17.52,-39.02,2022
+Soja,4304655,Capão do Cipó,Centro Ocidental,16,61344.38,134457.06,2194.61,39.99,-74.65,2022
+Soja,4304663,Capão do Leão,Sudeste,16,8119.75,20990.81,2548.42,24.49,-43.92,2016
+Soja,4304671,Capivari do Sul,Metropolitana de Porto Alegre,16,3970.19,11418.19,2687.91,16.08,-50.06,2024
+Soja,4304705,Carazinho,Noroeste,16,38111.25,113857.12,2971.93,24.37,-45.05,2012
+Soja,4304853,Carlos Gomes,Noroeste,16,2930.0,8609.81,2888.26,25.58,-44.08,2025
+Soja,4304903,Casca,Noroeste,16,7893.75,24164.06,3084.38,26.2,-63.64,2020
+Soja,4304952,Caseiros,Noroeste,16,7702.94,23039.56,2982.5,21.3,-50.0,2022
+Soja,4305009,Catuípe,Noroeste,16,34266.88,84722.0,2437.35,42.15,-74.24,2012
+Soja,4305116,Centenário,Noroeste,16,6206.25,18443.0,2964.12,22.9,-40.03,2022
+Soja,4305124,Cerrito,Sudeste,16,5777.5,13753.94,2335.31,24.97,-35.65,2016
+Soja,4305132,Cerro Branco,Centro Oriental,16,947.19,2583.81,2726.88,18.29,-41.87,2023
+Soja,4305157,Cerro Grande,Noroeste,16,3193.75,8728.75,2721.25,27.17,-80.56,2012
+Soja,4305207,Cerro Largo,Noroeste,16,4784.38,10991.44,2211.17,45.46,-92.47,2022
+Soja,4305306,Chapada,Noroeste,16,40518.75,116989.38,2877.84,24.28,-57.93,2012
+Soja,4305355,Charqueadas,Metropolitana de Porto Alegre,16,2080.06,4209.0,2324.31,35.6,-52.27,2020
+Soja,4305371,Charrua,Noroeste,16,9330.62,29609.31,3168.13,15.42,-33.33,2020
+Soja,4305405,Chiapetta,Noroeste,16,26355.62,77526.44,2935.28,32.52,-82.7,2012
+Soja,4305439,Chuí,Sudeste,13,2273.15,5915.31,2505.61,25.88,-28.7,2025
+Soja,4305504,Ciríaco,Noroeste,16,11487.5,32984.56,2872.06,20.84,-41.57,2020
+Soja,4305603,Colorado,Noroeste,16,17249.62,58204.31,3363.47,29.21,-52.36,2012
+Soja,4305702,Condor,Noroeste,16,29462.5,87606.06,2973.72,30.93,-64.63,2012
+Soja,4305801,Constantina,Noroeste,16,11228.25,30519.69,2748.44,28.45,-69.08,2012
+Soja,4305850,Coqueiros do Sul,Noroeste,16,13852.5,40409.44,2911.25,21.8,-40.34,2022
+Soja,4305871,Coronel Barros,Noroeste,16,11062.81,26884.94,2434.22,43.43,-81.75,2022
+Soja,4305900,Coronel Bicaco,Noroeste,16,34300.62,99954.12,2905.89,22.61,-58.83,2022
+Soja,4305975,Coxilha,Noroeste,16,31343.75,102529.75,3270.19,21.78,-41.31,2022
+Soja,4306007,Crissiumal,Noroeste,16,10681.25,23745.0,2220.62,30.74,-68.08,2012
+Soja,4306056,Cristal,Sudeste,16,9437.5,21831.81,2300.5,29.54,-67.5,2020
+Soja,4306072,Cristal do Sul,Noroeste,16,4377.62,11227.5,2562.3,22.95,-38.4,2022
+Soja,4306106,Cruz Alta,Noroeste,16,91118.75,253171.88,2769.63,31.77,-62.82,2012
+Soja,4306130,Cruzaltense,Noroeste,16,7292.5,20640.81,2828.94,25.88,-55.0,2022
+Soja,4306205,Cruzeiro do Sul,Centro Oriental,16,3278.19,9264.62,2825.01,23.18,-40.0,2023
+Soja,4306304,David Canabarro,Noroeste,16,6243.75,18248.06,2900.88,19.83,-30.0,2012
+Soja,4306320,Derrubadas,Noroeste,16,9056.25,23702.88,2612.38,23.91,-61.53,2022
+Soja,4306353,Dezesseis de Novembro,Noroeste,16,1142.19,2706.19,2412.16,39.22,-75.45,2012
+Soja,4306379,Dilermando de Aguiar,Centro Ocidental,16,20062.5,49894.31,2507.0,25.56,-53.19,2022
+Soja,4306429,Dois Irmãos das Missões,Noroeste,16,15506.25,45211.88,2912.0,30.34,-69.21,2012
+Soja,4306452,Dois Lajeados,Nordeste,16,839.38,2716.88,3187.24,20.67,-49.3,2012
+Soja,4306502,Dom Feliciano,Metropolitana de Porto Alegre,16,1513.12,3052.06,2097.16,27.01,-42.86,2012
+Soja,4306601,Dom Pedrito,Sudoeste,16,95836.44,189626.44,1997.19,25.03,-40.58,2020
+Soja,4306734,Doutor Maurício Cardoso,Noroeste,16,13311.25,34877.81,2614.67,22.59,-49.39,2022
+Soja,4306767,Eldorado do Sul,Metropolitana de Porto Alegre,16,1711.75,4273.38,2538.74,16.45,-40.76,2024
+Soja,4306908,Encruzilhada do Sul,Sudeste,16,30943.75,70053.75,2397.95,33.51,-75.11,2020
+Soja,4306924,Engenho Velho,Noroeste,16,4640.62,13530.0,2804.12,32.25,-61.51,2012
+Soja,4306932,Entre-Ijuís,Noroeste,16,31389.75,75460.06,2322.43,44.99,-84.99,2022
+Soja,4306957,Entre Rios do Sul,Noroeste,16,6184.69,17467.56,2808.68,25.76,-63.83,2012
+Soja,4306973,Erebango,Noroeste,16,9281.25,29711.81,3193.62,18.71,-38.91,2025
+Soja,4307005,Erechim,Noroeste,16,9437.5,28250.88,2985.0,17.37,-28.98,2022
+Soja,4307054,Ernestina,Noroeste,16,17159.38,49919.75,2908.1,21.54,-43.33,2022
+Soja,4307104,Herval,Sudeste,16,11000.0,20136.75,1898.62,37.61,-49.07,2016
+Soja,4307203,Erval Grande,Noroeste,16,2809.38,7658.62,2733.75,29.45,-78.0,2012
+Soja,4307302,Erval Seco,Noroeste,16,13860.0,39382.25,2826.14,28.94,-63.93,2022
+Soja,4307401,Esmeralda,Nordeste,16,25911.94,80473.38,3059.13,19.33,-46.64,2022
+Soja,4307450,Esperança do Sul,Noroeste,16,4753.12,11182.5,2366.25,30.35,-63.25,2022
+Soja,4307500,Espumoso,Noroeste,16,49566.88,140697.38,2845.17,34.0,-70.44,2020
+Soja,4307559,Estação,Noroeste,16,5724.38,18434.94,3220.33,21.58,-42.65,2025
+Soja,4307807,Estrela,Centro Oriental,16,1429.38,3633.69,2605.46,28.36,-64.27,2012
+Soja,4307815,Estrela Velha,Centro Oriental,16,12223.12,31883.06,2614.78,37.09,-72.96,2022
+Soja,4307831,Eugênio de Castro,Noroeste,16,26017.5,65908.12,2406.72,41.89,-83.8,2012
+Soja,4307864,Fagundes Varela,Nordeste,16,793.75,2349.75,2934.82,16.7,-38.92,2012
+Soja,4308003,Faxinal do Soturno,Centro Ocidental,16,1375.0,3482.12,2492.55,26.96,-49.75,2020
+Soja,4308052,Faxinalzinho,Noroeste,16,5462.5,16266.25,2965.62,27.93,-54.56,2022
+Soja,4308078,Fazenda Vilanova,Centro Oriental,16,514.06,1409.19,2722.44,21.54,-41.72,2022
+Soja,4308250,Floriano Peixoto,Noroeste,16,5671.75,16267.56,2897.5,22.76,-42.68,2025
+Soja,4308300,Fontoura Xavier,Noroeste,16,3837.5,10358.12,2684.38,18.25,-35.71,2012
+Soja,4308409,Formigueiro,Centro Ocidental,16,8412.5,16722.62,2068.59,33.76,-63.68,2020
+Soja,4308458,Fortaleza dos Valos,Noroeste,16,35545.62,98635.31,2762.48,35.23,-70.04,2022
+Soja,4308508,Frederico Westphalen,Noroeste,16,7143.75,18342.44,2568.19,26.96,-59.93,2012
+Soja,4308656,Garruchos,Sudoeste,16,17999.06,37471.19,2100.34,37.47,-74.15,2022
+Soja,4308706,Gaurama,Noroeste,16,7971.88,25189.75,3153.13,16.19,-41.82,2012
+Soja,4308805,General Câmara,Metropolitana de Porto Alegre,16,6628.12,17860.69,2664.49,34.93,-74.84,2020
+Soja,4308854,Gentil,Noroeste,16,9831.25,30878.06,3148.12,23.72,-59.6,2022
+Soja,4308904,Getúlio Vargas,Noroeste,16,13828.12,46165.5,3341.25,17.41,-42.07,2025
+Soja,4309001,Giruá,Noroeste,16,60984.38,153388.69,2504.37,40.25,-83.41,2012
+Soja,4309050,Glorinha,Metropolitana de Porto Alegre,16,1277.5,3369.75,2550.97,12.3,-37.04,2010
+Soja,4309126,Gramado dos Loureiros,Noroeste,16,5834.38,16668.88,2851.94,26.7,-67.4,2012
+Soja,4309159,Gramado Xavier,Centro Oriental,16,2615.62,7433.19,2772.5,15.58,-35.06,2020
+Soja,4309258,Guabiju,Nordeste,16,5315.62,16500.88,3107.5,16.02,-33.51,2022
+Soja,4309308,Guaíba,Metropolitana de Porto Alegre,12,564.58,1265.42,2110.41,38.76,-36.05,2020
+Soja,4309407,Guaporé,Nordeste,16,3267.5,9981.0,2995.69,28.25,-55.38,2022
+Soja,4309506,Guarani das Missões,Noroeste,16,16345.94,37250.0,2249.3,46.33,-92.31,2022
+Soja,4309605,Horizontina,Noroeste,16,11208.75,27321.25,2414.38,32.08,-81.24,2012
+Soja,4309654,Hulha Negra,Sudoeste,16,11809.38,19913.5,1750.94,24.34,-48.24,2020
+Soja,4309704,Humaitá,Noroeste,16,7146.88,19421.62,2730.0,27.37,-72.44,2022
+Soja,4309753,Ibarama,Centro Oriental,16,745.0,1921.75,2653.95,31.5,-64.0,2020
+Soja,4309803,Ibiaçá,Noroeste,16,18287.5,57675.25,3180.62,23.82,-60.66,2022
+Soja,4309902,Ibiraiaras,Noroeste,16,9798.88,31232.19,3216.57,24.05,-48.53,2025
+Soja,4309951,Ibirapuitã,Noroeste,16,14743.75,40689.12,2775.03,23.42,-45.6,2020
+Soja,4310009,Ibirubá,Noroeste,16,42075.0,128340.62,3046.52,29.23,-57.64,2012
+Soja,4310207,Ijuí,Noroeste,16,42268.75,108256.25,2543.1,37.67,-65.14,2022
+Soja,4310405,Independência,Noroeste,16,20950.0,53694.31,2554.25,36.8,-88.54,2012
+Soja,4310413,Inhacorá,Noroeste,16,6392.5,16758.12,2627.85,39.78,-81.22,2012
+Soja,4310439,Ipê,Nordeste,16,6775.0,22584.56,3329.06,19.73,-49.34,2020
+Soja,4310462,Ipiranga do Sul,Noroeste,16,9761.25,32660.81,3334.25,19.42,-36.52,2025
+Soja,4310504,Iraí,Noroeste,16,4887.5,11468.75,2333.0,32.43,-49.72,2022
+Soja,4310538,Itaara,Centro Ocidental,16,2850.0,8433.12,2966.56,24.75,-43.59,2022
+Soja,4310553,Itacurubi,Centro Ocidental,16,12195.0,25316.06,1964.96,47.42,-91.92,2022
+Soja,4310579,Itapuca,Nordeste,16,4355.62,13086.06,2970.25,18.08,-35.03,2022
+Soja,4310603,Itaqui,Sudoeste,16,29349.38,62206.0,2130.9,32.16,-63.25,2022
+Soja,4310702,Itatiba do Sul,Noroeste,16,759.38,2070.12,2748.75,27.41,-78.38,2012
+Soja,4310751,Ivorá,Centro Ocidental,16,3059.38,8708.0,2832.5,31.4,-70.0,2012
+Soja,4310850,Jaboticaba,Noroeste,16,5800.0,15636.81,2679.94,26.9,-62.0,2012
+Soja,4310876,Jacuizinho,Noroeste,16,16701.88,43082.38,2556.79,38.13,-71.08,2020
+Soja,4310900,Jacutinga,Noroeste,16,12037.5,38817.81,3206.88,20.51,-49.15,2012
+Soja,4311007,Jaguarão,Sudeste,16,38287.5,77139.75,2036.25,28.42,-41.18,2016
+Soja,4311106,Jaguari,Centro Ocidental,16,8293.75,16432.19,2078.43,37.94,-68.83,2022
+Soja,4311130,Jari,Centro Ocidental,16,43460.94,104871.81,2464.96,34.54,-63.68,2012
+Soja,4311155,Jóia,Noroeste,16,79376.25,180388.0,2252.77,44.37,-77.16,2012
+Soja,4311205,Júlio de Castilhos,Centro Ocidental,16,93081.25,246401.5,2665.5,29.53,-53.46,2022
+Soja,4311239,Lagoa Bonita do Sul,Centro Oriental,16,1366.44,3822.56,2829.11,20.94,-40.0,2020
+Soja,4311254,Lagoão,Noroeste,16,6218.75,15228.62,2513.12,25.01,-59.26,2022
+Soja,4311270,Lagoa dos Três Cantos,Noroeste,16,9445.62,28677.88,3031.3,32.32,-63.24,2020
+Soja,4311304,Lagoa Vermelha,Nordeste,16,43906.25,141310.88,3210.56,16.71,-29.29,2020
+Soja,4311403,Lajeado,Centro Oriental,16,525.94,1530.81,2929.47,25.22,-49.15,2020
+Soja,4311429,Lajeado do Bugre,Noroeste,16,3031.25,8461.88,2789.38,26.08,-60.0,2012
+Soja,4311502,Lavras do Sul,Sudoeste,16,24875.0,51337.25,2241.82,27.71,-43.59,2020
+Soja,4311601,Liberato Salzano,Noroeste,16,6065.62,15018.12,2489.84,31.4,-72.92,2012
+Soja,4311700,Machadinho,Noroeste,16,11731.25,37813.12,3220.63,21.47,-45.88,2022
+Soja,4311718,Maçambará,Sudoeste,16,30560.75,58483.94,1976.37,44.31,-73.18,2023
+Soja,4311759,Manoel Viana,Sudoeste,16,38875.0,79831.25,2117.63,38.31,-69.81,2023
+Soja,4311809,Marau,Noroeste,16,38500.0,116803.12,3028.81,22.58,-40.0,2012
+Soja,4311908,Marcelino Ramos,Noroeste,16,3043.31,8683.56,2924.96,20.42,-46.91,2022
+Soja,4312005,Mariano Moro,Noroeste,16,920.0,2536.94,2562.29,26.57,-36.82,2012
+Soja,4312104,Mata,Centro Ocidental,16,2384.5,4876.44,2117.06,41.53,-74.28,2022
+Soja,4312138,Mato Castelhano,Noroeste,16,13331.25,40724.06,3001.67,23.34,-61.82,2022
+Soja,4312179,Mato Queimado,Noroeste,16,6104.56,15117.88,2451.0,39.56,-83.86,2022
+Soja,4312203,Maximiliano de Almeida,Noroeste,16,6537.5,18246.88,2797.5,21.54,-50.0,2022
+Soja,4312252,Minas do Leão,Metropolitana de Porto Alegre,16,8900.0,21754.38,2490.62,26.74,-56.66,2020
+Soja,4312302,Miraguaí,Noroeste,16,5018.75,12360.62,2439.13,28.58,-69.76,2012
+Soja,4312351,Montauri,Nordeste,16,2843.75,7942.5,2838.75,29.69,-70.39,2022
+Soja,4312377,Monte Alegre dos Campos,Nordeste,16,2229.44,6775.44,2958.34,24.54,-73.75,2024
+Soja,4312427,Mormaço,Noroeste,16,8864.38,21439.81,2426.13,44.72,-83.03,2023
+Soja,4312450,Morro Redondo,Sudeste,16,1209.38,2753.12,2265.16,31.91,-75.0,2020
+Soja,4312500,Mostardas,Metropolitana de Porto Alegre,12,6351.5,16426.33,2580.35,22.03,-38.04,2024
+Soja,4312617,Muitos Capões,Nordeste,16,49219.06,168553.12,3418.75,15.19,-36.82,2012
+Soja,4312625,Muliterno,Noroeste,16,3365.62,9678.62,2903.75,26.14,-66.67,2022
+Soja,4312658,Não-Me-Toque,Noroeste,16,22292.5,70456.12,3156.03,26.59,-46.54,2022
+Soja,4312674,Nicolau Vergueiro,Noroeste,16,10353.12,29401.31,2838.75,26.78,-51.46,2022
+Soja,4312708,Nonoai,Noroeste,16,16987.5,52527.5,3090.0,20.08,-53.97,2022
+Soja,4312757,Nova Alvorada,Nordeste,16,4793.75,14743.25,3066.81,22.12,-56.08,2022
+Soja,4312807,Nova Araçá,Nordeste,16,546.25,1650.31,3084.93,28.25,-55.32,2022
+Soja,4312906,Nova Bassano,Nordeste,16,2087.5,6638.12,3153.96,28.91,-54.55,2020
+Soja,4312955,Nova Boa Vista,Noroeste,16,4578.12,13027.69,2837.5,25.65,-50.28,2023
+Soja,4313011,Nova Candelária,Noroeste,16,2714.06,6877.81,2489.98,33.27,-81.4,2012
+Soja,4313037,Nova Esperança do Sul,Centro Ocidental,16,3610.0,8905.25,2517.95,40.1,-88.1,2022
+Soja,4313102,Nova Palma,Centro Ocidental,16,7565.62,20584.06,2771.88,32.21,-60.0,2022
+Soja,4313300,Nova Prata,Nordeste,16,2428.12,6716.38,2801.2,28.33,-60.87,2012
+Soja,4313334,Nova Ramada,Noroeste,16,14532.62,38718.62,2649.09,37.96,-74.71,2012
+Soja,4313391,Novo Cabrais,Centro Oriental,16,5431.25,13361.0,2459.01,22.88,-52.06,2020
+Soja,4313425,Novo Machado,Noroeste,16,11217.5,25066.75,2239.4,29.31,-60.74,2012
+Soja,4313441,Novo Tiradentes,Noroeste,16,2032.5,5840.38,2850.48,21.53,-58.62,2012
+Soja,4313466,Novo Xingu,Noroeste,16,3525.0,9057.5,2556.89,36.13,-70.81,2012
+Soja,4313490,Novo Barreiro,Noroeste,16,4275.0,12040.0,2796.25,27.61,-58.19,2012
+Soja,4313508,Osório,Metropolitana de Porto Alegre,13,1502.23,3204.15,2069.6,17.34,-30.05,2024
+Soja,4313607,Paim Filho,Noroeste,16,5025.0,15145.88,3005.62,22.74,-63.64,2022
+Soja,4313656,Palmares do Sul,Metropolitana de Porto Alegre,14,4505.21,13739.07,3002.36,22.81,-54.9,2024
+Soja,4313706,Palmeira das Missões,Noroeste,16,99087.5,279869.12,2834.42,24.73,-58.53,2022
+Soja,4313805,Palmitinho,Noroeste,16,693.44,1489.06,2189.61,33.38,-71.33,2022
+Soja,4313904,Panambi,Noroeste,16,27882.69,83076.0,2976.33,31.56,-65.77,2012
+Soja,4313953,Pantano Grande,Centro Oriental,16,15959.38,31483.5,2107.32,35.88,-70.67,2020
+Soja,4314001,Paraí,Nordeste,16,1131.25,3340.94,3091.19,34.46,-69.19,2022
+Soja,4314027,Paraíso do Sul,Centro Oriental,16,2522.81,6141.0,2459.19,24.54,-66.26,2020
+Soja,4314068,Passa Sete,Centro Oriental,16,3581.25,9669.88,2733.75,19.39,-46.34,2020
+Soja,4314076,Passo do Sobrado,Centro Oriental,16,5585.62,15077.38,2768.75,19.51,-56.0,2020
+Soja,4314100,Passo Fundo,Noroeste,16,39881.25,122092.5,3059.31,18.57,-32.82,2022
+Soja,4314134,Paulo Bento,Noroeste,16,6561.25,20117.5,3051.25,20.36,-44.4,2012
+Soja,4314159,Paverama,Centro Oriental,16,512.5,1420.94,2880.55,23.22,-59.03,2022
+Soja,4314175,Pedras Altas,Sudeste,16,26128.19,52225.62,1900.89,28.93,-35.47,2023
+Soja,4314209,Pedro Osório,Sudeste,16,7547.69,16191.31,1992.43,36.55,-58.44,2020
+Soja,4314308,Pejuçara,Noroeste,16,29540.62,93772.94,3166.01,31.51,-67.32,2022
+Soja,4314407,Pelotas,Sudeste,16,18219.06,45406.88,2526.69,30.22,-59.09,2020
+Soja,4314456,Pinhal,Noroeste,16,1087.5,2889.5,2654.66,25.76,-76.96,2012
+Soja,4314464,Pinhal da Serra,Nordeste,16,7862.5,24877.88,3145.75,21.38,-41.25,2020
+Soja,4314472,Pinhal Grande,Centro Ocidental,16,18452.19,51893.12,2790.7,31.86,-72.57,2012
+Soja,4314498,Pinheirinho do Vale,Noroeste,16,962.5,2223.94,2280.07,20.18,-56.64,2022
+Soja,4314506,Pinheiro Machado,Sudeste,16,5112.5,10068.31,2063.57,27.73,-68.97,2020
+Soja,4314555,Pirapó,Noroeste,16,5051.5,11112.12,2197.21,37.64,-78.37,2022
+Soja,4314605,Piratini,Sudeste,16,33754.0,79937.31,2332.19,31.31,-72.18,2020
+Soja,4314704,Planalto,Noroeste,16,1865.0,4331.56,2320.14,29.58,-65.89,2012
+Soja,4314779,Pontão,Noroeste,16,33034.38,96517.88,2918.31,19.8,-46.67,2014
+Soja,4314787,Ponte Preta,Noroeste,16,4993.75,14400.5,2864.17,23.23,-48.28,2022
+Soja,4315008,Porto Lucena,Noroeste,16,4445.75,9810.56,2200.62,40.73,-79.58,2012
+Soja,4315057,Porto Mauá,Noroeste,16,3737.5,8698.12,2305.31,31.02,-67.67,2022
+Soja,4315107,Porto Xavier,Noroeste,16,1369.94,2550.0,1869.88,46.89,-83.68,2022
+Soja,4315172,Protásio Alves,Nordeste,16,1348.56,3748.56,2828.34,19.13,-38.7,2012
+Soja,4315313,Quatro Irmãos,Noroeste,16,16062.5,51126.25,3160.69,23.94,-44.24,2012
+Soja,4315321,Quevedos,Centro Ocidental,16,25909.38,68878.12,2681.44,31.55,-56.0,2023
+Soja,4315354,Quinze de Novembro,Noroeste,16,10749.88,28643.94,2650.5,40.29,-78.47,2022
+Soja,4315404,Redentora,Noroeste,16,12725.0,31513.12,2477.5,34.33,-85.27,2012
+Soja,4315503,Restinga Sêca,Centro Ocidental,16,22900.0,51364.0,2272.0,29.01,-52.54,2012
+Soja,4315552,Rio dos Índios,Noroeste,16,7897.5,22131.19,2797.5,24.38,-57.05,2012
+Soja,4315602,Rio Grande,Sudeste,16,8213.06,21830.88,2497.07,24.57,-37.13,2014
+Soja,4315701,Rio Pardo,Centro Oriental,16,55500.44,131267.38,2404.39,26.71,-63.42,2020
+Soja,4315800,Roca Sales,Centro Oriental,16,1951.25,5618.0,2880.67,25.43,-48.17,2012
+Soja,4315909,Rodeio Bonito,Noroeste,16,3090.94,8299.44,2680.01,24.62,-57.11,2012
+Soja,4315958,Rolador,Noroeste,16,13302.81,32552.75,2406.39,40.06,-83.51,2022
+Soja,4316105,Ronda Alta,Noroeste,16,24185.94,70051.31,2894.24,26.77,-44.34,2012
+Soja,4316204,Rondinha,Noroeste,16,12014.62,32330.06,2686.43,25.3,-59.99,2012
+Soja,4316303,Roque Gonzales,Noroeste,16,7321.81,16272.88,2223.62,43.26,-80.22,2012
+Soja,4316402,Rosário do Sul,Sudoeste,16,39737.5,75681.25,1956.62,32.46,-55.82,2022
+Soja,4316428,Sagrada Família,Noroeste,16,3531.25,9122.12,2588.33,34.49,-75.99,2012
+Soja,4316436,Saldanha Marinho,Noroeste,16,13156.44,39949.38,3018.06,35.82,-72.7,2012
+Soja,4316451,Salto do Jacuí,Noroeste,16,22312.5,57711.19,2614.89,40.53,-75.32,2023
+Soja,4316477,Salvador das Missões,Noroeste,16,3479.31,8639.75,2494.21,41.52,-89.51,2022
+Soja,4316600,Sananduva,Noroeste,16,21731.25,67256.12,3101.25,19.29,-39.39,2022
+Soja,4316709,Santa Bárbara do Sul,Noroeste,16,71468.75,221126.81,3102.86,29.26,-60.88,2022
+Soja,4316733,Santa Cecília do Sul,Noroeste,16,8316.56,25165.69,3044.0,24.16,-42.0,2012
+Soja,4316758,Santa Clara do Sul,Centro Oriental,16,670.0,1928.75,2883.61,21.98,-43.56,2020
+Soja,4316808,Santa Cruz do Sul,Centro Oriental,16,2446.88,6318.19,2586.6,26.31,-62.22,2020
+Soja,4316907,Santa Maria,Centro Ocidental,16,42888.31,110126.06,2541.59,26.68,-46.75,2022
+Soja,4316972,Santa Margarida do Sul,Sudoeste,16,33337.5,66220.75,2048.44,40.26,-74.24,2012
+Soja,4317004,Santana da Boa Vista,Sudeste,16,24784.38,54987.19,2283.12,25.29,-77.14,2020
+Soja,4317103,Sant'Ana do Livramento,Sudoeste,16,46068.75,89646.25,1987.5,28.98,-47.37,2024
+Soja,4317202,Santa Rosa,Noroeste,16,19221.75,49452.12,2577.52,37.53,-82.47,2012
+Soja,4317301,Santa Vitória do Palmar,Sudeste,16,25141.69,58562.88,2159.47,31.43,-73.38,2024
+Soja,4317400,Santiago,Centro Ocidental,16,41916.94,95439.06,2283.91,41.05,-75.35,2022
+Soja,4317509,Santo Ângelo,Noroeste,16,36895.0,90256.56,2432.55,44.18,-90.34,2022
+Soja,4317558,Santo Antônio do Palma,Noroeste,16,3750.0,10926.31,2910.38,23.84,-47.96,2020
+Soja,4317608,Santo Antônio da Patrulha,Metropolitana de Porto Alegre,16,5087.94,14501.5,2885.19,14.74,-50.0,2024
+Soja,4317707,Santo Antônio das Missões,Noroeste,16,44002.5,91897.31,2100.29,44.84,-84.18,2012
+Soja,4317756,Santo Antônio do Planalto,Noroeste,16,13201.25,41371.25,3109.08,25.36,-45.55,2022
+Soja,4317806,Santo Augusto,Noroeste,16,33356.25,102783.06,3069.2,26.65,-65.13,2012
+Soja,4317905,Santo Cristo,Noroeste,16,8751.94,20617.62,2349.01,43.29,-84.8,2022
+Soja,4317954,Santo Expedito do Sul,Noroeste,16,5618.75,17592.69,3106.13,19.72,-38.57,2025
+Soja,4318002,São Borja,Sudoeste,16,65375.0,131361.25,2052.9,29.82,-54.83,2022
+Soja,4318051,São Domingos do Sul,Noroeste,16,1412.5,3878.56,2795.99,25.33,-55.89,2020
+Soja,4318101,São Francisco de Assis,Sudoeste,16,41553.12,84538.38,2049.62,38.95,-74.13,2022
+Soja,4318200,São Francisco de Paula,Nordeste,11,6072.73,18501.82,2917.58,18.8,-22.86,2020
+Soja,4318309,São Gabriel,Sudoeste,16,97725.0,186763.62,1942.54,28.49,-51.99,2012
+Soja,4318408,São Jerônimo,Metropolitana de Porto Alegre,16,3524.38,8846.56,2505.14,22.2,-55.66,2020
+Soja,4318424,São João da Urtiga,Noroeste,16,5947.0,17497.44,2947.5,21.57,-43.72,2022
+Soja,4318432,São João do Polêsine,Centro Ocidental,16,525.0,1279.69,2416.25,35.09,-74.38,2020
+Soja,4318440,São Jorge,Nordeste,16,2275.0,7417.31,3243.23,19.21,-43.3,2020
+Soja,4318457,São José das Missões,Noroeste,16,3876.25,10623.12,2729.55,29.13,-64.71,2022
+Soja,4318499,São José do Inhacorá,Noroeste,16,1784.38,3809.56,2142.2,35.56,-80.0,2012
+Soja,4318606,São José do Ouro,Noroeste,16,19171.88,62461.81,3254.75,18.19,-39.13,2022
+Soja,4318804,São Lourenço do Sul,Sudeste,16,27875.0,66878.75,2340.62,32.35,-62.97,2016
+Soja,4318903,São Luiz Gonzaga,Noroeste,16,74246.88,175740.62,2347.8,41.43,-88.23,2012
+Soja,4319109,São Martinho,Noroeste,16,10631.25,28894.69,2707.5,32.27,-71.63,2012
+Soja,4319125,São Martinho da Serra,Centro Ocidental,16,30485.0,87115.12,2868.29,24.4,-42.94,2025
+Soja,4319158,São Miguel das Missões,Noroeste,16,70100.0,167958.75,2353.95,45.44,-90.92,2012
+Soja,4319208,São Nicolau,Noroeste,16,14954.44,35351.25,2360.24,36.09,-68.54,2022
+Soja,4319307,São Paulo das Missões,Noroeste,16,4128.12,8992.69,2161.88,41.11,-75.0,2022
+Soja,4319364,São Pedro das Missões,Noroeste,16,5131.25,14783.12,2870.74,22.08,-54.2,2023
+Soja,4319372,São Pedro do Butiá,Noroeste,16,3935.0,9837.75,2509.61,45.13,-89.74,2022
+Soja,4319406,São Pedro do Sul,Centro Ocidental,16,12067.5,26105.38,2351.09,34.09,-65.44,2022
+Soja,4319604,São Sepé,Centro Ocidental,16,55706.25,120895.81,2186.97,35.83,-63.97,2022
+Soja,4319703,São Valentim,Noroeste,16,3190.62,8803.38,2765.33,22.36,-41.89,2022
+Soja,4319711,São Valentim do Sul,Nordeste,16,784.38,2617.19,3352.81,17.59,-45.83,2022
+Soja,4319737,São Valério do Sul,Noroeste,16,5968.44,16641.88,2761.99,31.55,-76.39,2022
+Soja,4319802,São Vicente do Sul,Centro Ocidental,16,25961.25,53931.56,2080.62,22.47,-27.79,2012
+Soja,4320107,Sarandi,Noroeste,16,17406.75,53039.31,3019.16,25.97,-59.8,2012
+Soja,4320206,Seberi,Noroeste,16,12041.88,32658.19,2733.77,29.19,-79.4,2012
+Soja,4320230,Sede Nova,Noroeste,16,6200.0,18181.12,2931.25,25.82,-72.51,2022
+Soja,4320263,Segredo,Centro Oriental,16,4766.88,13341.81,2863.82,28.5,-54.75,2023
+Soja,4320305,Selbach,Noroeste,16,10844.69,33713.44,3089.67,32.39,-71.08,2020
+Soja,4320321,Senador Salgado Filho,Noroeste,16,8109.38,19717.62,2431.69,44.9,-93.78,2022
+Soja,4320354,Sentinela do Sul,Metropolitana de Porto Alegre,16,878.81,2169.75,2418.77,24.31,-49.68,2018
+Soja,4320404,Serafina Corrêa,Nordeste,16,2780.62,8366.06,3089.18,27.28,-59.63,2022
+Soja,4320503,Sertão,Noroeste,16,31175.0,103504.69,3312.81,22.44,-27.27,2020
+Soja,4320578,Sete de Setembro,Noroeste,16,6724.81,14450.88,2059.99,41.13,-92.38,2022
+Soja,4320602,Severiano de Almeida,Noroeste,16,2984.38,8532.94,2853.75,17.2,-50.0,2022
+Soja,4320651,Silveira Martins,Centro Ocidental,16,3506.25,11339.38,3225.0,23.76,-59.87,2012
+Soja,4320677,Sinimbu,Centro Oriental,12,1114.58,2604.17,2254.17,33.41,-51.7,2020
+Soja,4320701,Sobradinho,Centro Oriental,16,1887.5,5432.69,2903.75,25.03,-41.07,2020
+Soja,4320800,Soledade,Noroeste,16,38062.5,101730.0,2675.89,25.41,-53.1,2020
+Soja,4320909,Tapejara,Noroeste,16,14610.62,45941.44,3138.75,20.9,-43.93,2025
+Soja,4321006,Tapera,Noroeste,16,13128.12,39439.12,3003.47,31.42,-63.08,2022
+Soja,4321105,Tapes,Metropolitana de Porto Alegre,16,9681.88,25963.88,2629.68,14.21,-22.6,2018
+Soja,4321329,Taquaruçu do Sul,Noroeste,16,2313.75,5577.5,2369.53,27.39,-66.79,2012
+Soja,4321402,Tenente Portela,Noroeste,16,12850.0,34219.38,2653.12,26.17,-71.73,2022
+Soja,4321469,Tio Hugo,Noroeste,16,7105.62,21652.62,3040.13,30.52,-59.22,2020
+Soja,4321477,Tiradentes do Sul,Noroeste,16,5437.5,12417.62,2287.81,31.64,-72.49,2022
+Soja,4321493,Toropi,Centro Ocidental,16,1589.06,3230.19,2153.79,39.88,-63.53,2022
+Soja,4321634,Três Arroios,Noroeste,16,2797.5,8051.25,2863.86,24.04,-45.57,2022
+Soja,4321808,Três de Maio,Noroeste,16,23095.62,59723.62,2558.06,35.33,-78.79,2022
+Soja,4321857,Três Palmeiras,Noroeste,16,8300.0,24354.0,2914.69,27.62,-68.33,2012
+Soja,4321907,Três Passos,Noroeste,16,8468.75,22645.62,2667.5,26.51,-76.02,2022
+Soja,4321956,Trindade do Sul,Noroeste,16,11712.5,31481.38,2673.81,34.95,-77.6,2012
+Soja,4322004,Triunfo,Metropolitana de Porto Alegre,14,1107.86,2559.21,2343.12,12.72,-21.92,2020
+Soja,4322103,Tucunduva,Noroeste,16,10431.88,24738.12,2352.0,32.61,-86.67,2012
+Soja,4322152,Tunas,Noroeste,16,5393.75,12803.44,2346.25,39.56,-79.4,2012
+Soja,4322186,Tupanci do Sul,Noroeste,16,5534.38,15899.19,2876.57,22.77,-51.91,2022
+Soja,4322202,Tupanciretã,Centro Ocidental,16,145393.38,371038.19,2551.72,34.62,-67.97,2022
+Soja,4322301,Tuparendi,Noroeste,16,13539.62,29960.44,2201.27,39.73,-79.39,2012
+Soja,4322327,Turuçu,Sudeste,16,4593.56,11714.94,2570.89,24.4,-54.17,2020
+Soja,4322343,Ubiretama,Noroeste,16,5062.5,10878.56,2148.12,45.58,-94.71,2022
+Soja,4322350,União da Serra,Nordeste,16,2184.38,6039.56,2768.12,27.95,-52.63,2012
+Soja,4322376,Unistalda,Centro Ocidental,16,8300.0,17906.0,2135.94,41.68,-79.42,2022
+Soja,4322400,Uruguaiana,Sudoeste,14,2188.43,5221.5,2346.24,29.33,-35.83,2013
+Soja,4322509,Vacaria,Nordeste,16,51900.0,165509.06,3143.12,16.93,-37.15,2022
+Soja,4322525,Vale Verde,Metropolitana de Porto Alegre,16,6148.12,15191.44,2574.37,22.65,-55.72,2020
+Soja,4322533,Vale do Sol,Centro Oriental,16,526.88,1443.0,2789.38,18.91,-45.98,2020
+Soja,4322558,Vanini,Noroeste,16,1633.75,4992.69,3075.88,23.06,-53.47,2020
+Soja,4322608,Venâncio Aires,Centro Oriental,16,3455.62,9728.44,2893.53,18.7,-48.46,2020
+Soja,4322707,Vera Cruz,Centro Oriental,15,529.33,1221.47,2368.71,28.24,-56.76,2012
+Soja,4322806,Veranópolis,Nordeste,16,609.75,1914.38,3053.17,22.78,-56.17,2022
+Soja,4322855,Vespasiano Corrêa,Centro Oriental,16,2083.75,5901.0,2828.44,18.02,-35.41,2020
+Soja,4322905,Viadutos,Noroeste,16,8168.75,25278.88,3088.12,19.44,-37.71,2022
+Soja,4323002,Viamão,Metropolitana de Porto Alegre,15,3134.93,7365.2,2234.56,30.27,-51.51,2010
+Soja,4323101,Vicente Dutra,Noroeste,16,3600.0,9517.62,2591.14,18.67,-46.7,2022
+Soja,4323200,Victor Graeff,Noroeste,16,15056.25,45377.44,3008.56,25.93,-62.07,2020
+Soja,4323309,Vila Flores,Nordeste,16,561.88,1921.94,3376.64,17.99,-38.19,2012
+Soja,4323358,Vila Lângaro,Noroeste,16,8911.88,28495.31,3187.5,22.5,-34.72,2020
+Soja,4323408,Vila Maria,Noroeste,16,7501.56,23110.88,3089.69,26.63,-52.3,2022
+Soja,4323457,Vila Nova do Sul,Centro Ocidental,16,10100.0,19779.75,2075.0,42.75,-67.28,2020
+Soja,4323507,Vista Alegre,Noroeste,16,1617.5,3802.44,2340.99,30.0,-69.36,2012
+Soja,4323606,Vista Alegre do Prata,Nordeste,16,896.88,2808.44,3100.0,26.68,-67.65,2012
+Soja,4323705,Vista Gaúcha,Noroeste,16,3243.75,8141.5,2508.12,22.07,-61.1,2022
+Soja,4323754,Vitória das Missões,Noroeste,16,10746.5,25369.62,2283.62,49.15,-94.06,2022
+Trigo,4300034,Aceguá,Sudoeste,13,715.38,1570.62,2117.6,8.69,-12.62,2014
+Trigo,4300059,Água Santa,Noroeste,16,2131.25,6676.5,3133.75,32.49,-71.38,2015
+Trigo,4300208,Ajuricaba,Noroeste,16,9200.0,21248.5,2305.0,41.33,-60.95,2014
+Trigo,4300406,Alegrete,Sudoeste,16,7350.0,14833.06,1992.69,20.86,-52.38,2017
+Trigo,4300455,Alegria,Noroeste,16,2958.44,6475.19,2208.61,25.51,-59.09,2014
+Trigo,4300471,Almirante Tamandaré do Sul,Noroeste,16,5125.0,14837.25,2813.75,30.87,-64.36,2015
+Trigo,4300554,Alto Alegre,Noroeste,16,1406.25,3551.0,2481.25,36.33,-66.72,2015
+Trigo,4300661,André da Rocha,Nordeste,16,1334.38,3887.5,3067.4,26.47,-38.03,2023
+Trigo,4301206,Arroio do Tigre,Centro Oriental,16,1401.88,3792.62,2434.98,29.68,-45.83,2015
+Trigo,4301305,Arroio Grande,Sudeste,16,1530.94,3282.25,2084.41,21.81,-50.58,2019
+Trigo,4301503,Augusto Pestana,Noroeste,16,6156.25,13800.62,2265.62,35.59,-52.4,2014
+Trigo,4301552,Áurea,Noroeste,16,1232.5,3091.06,2443.75,36.05,-66.01,2015
+Trigo,4301602,Bagé,Sudoeste,13,1018.46,2023.92,1975.37,19.66,-4.55,2024
+Trigo,4301701,Barão de Cotegipe,Noroeste,16,855.0,2288.81,2599.38,32.65,-54.24,2015
+Trigo,4301800,Barracão,Noroeste,16,1943.75,5888.44,3023.78,22.7,-38.49,2015
+Trigo,4301958,Barra Funda,Noroeste,16,910.62,2191.75,2456.28,35.53,-55.67,2014
+Trigo,4302055,Benjamin Constant do Sul,Noroeste,16,573.44,1355.81,2379.41,36.24,-64.34,2023
+Trigo,4302154,Boa Vista das Missões,Noroeste,16,7593.75,17291.88,2330.19,31.96,-66.76,2014
+Trigo,4302204,Boa Vista do Buricá,Noroeste,16,700.0,1521.44,2168.75,30.1,-57.05,2014
+Trigo,4302220,Boa Vista do Cadeado,Noroeste,16,8837.5,21626.88,2440.0,30.9,-57.12,2014
+Trigo,4302238,Boa Vista do Incra,Noroeste,16,3881.25,8489.0,2272.88,41.6,-65.07,2023
+Trigo,4302303,Bom Jesus,Nordeste,16,1735.62,4724.19,2493.22,28.58,-43.18,2023
+Trigo,4302378,Bom Progresso,Noroeste,16,1643.75,3930.62,2396.88,31.11,-64.71,2023
+Trigo,4302501,Bossoroca,Noroeste,16,7625.0,18318.88,2364.62,29.03,-61.02,2017
+Trigo,4302584,Bozano,Noroeste,16,4731.25,11245.5,2333.75,34.96,-74.04,2014
+Trigo,4302600,Braga,Noroeste,16,3637.5,8164.38,2217.5,42.48,-59.35,2023
+Trigo,4302709,Butiá,Metropolitana de Porto Alegre,13,628.46,1320.77,2207.32,28.5,-48.38,2015
+Trigo,4302808,Caçapava do Sul,Sudeste,14,1650.0,3819.36,2294.52,13.08,-38.78,2023
+Trigo,4302907,Cacequi,Centro Ocidental,13,1791.54,3971.69,2081.54,25.79,-36.54,2023
+Trigo,4303004,Cachoeira do Sul,Centro Oriental,16,5873.31,12996.06,2183.45,23.78,-32.59,2023
+Trigo,4303202,Cacique Doble,Noroeste,16,1456.88,5103.44,3139.14,34.61,-57.83,2015
+Trigo,4303301,Caibaté,Noroeste,16,6050.0,14578.12,2405.81,35.23,-62.59,2014
+Trigo,4303558,Camargo,Noroeste,16,531.25,1318.5,2380.83,40.11,-67.48,2015
+Trigo,4303673,Campestre da Serra,Nordeste,16,1659.38,4793.0,2869.62,16.9,-38.76,2015
+Trigo,4303707,Campina das Missões,Noroeste,16,1256.25,2626.12,2138.44,38.84,-61.29,2017
+Trigo,4303806,Campinas do Sul,Noroeste,16,4514.38,13451.0,2893.75,35.82,-73.52,2015
+Trigo,4304002,Campo Novo,Noroeste,16,4868.75,11899.44,2423.12,34.17,-52.4,2014
+Trigo,4304101,Campos Borges,Noroeste,16,1912.5,4369.88,2361.25,29.03,-49.39,2023
+Trigo,4304309,Cândido Godói,Noroeste,16,3884.38,9180.31,2365.0,32.5,-56.83,2023
+Trigo,4304358,Candiota,Sudeste,14,1138.57,2394.43,2013.57,22.29,-24.78,2023
+Trigo,4304507,Canguçu,Sudeste,13,1526.15,3513.23,2223.08,24.51,-50.0,2015
+Trigo,4304622,Capão Bonito do Sul,Nordeste,16,3190.62,10430.62,3265.0,18.87,-35.83,2023
+Trigo,4304655,Capão do Cipó,Centro Ocidental,16,11151.56,25857.75,2347.5,31.55,-64.04,2014
+Trigo,4304705,Carazinho,Noroeste,16,4500.62,13291.69,2927.5,29.24,-63.78,2015
+Trigo,4304853,Carlos Gomes,Noroeste,16,778.12,1956.88,2461.25,37.37,-67.1,2015
+Trigo,4304903,Casca,Noroeste,16,1650.0,4649.06,2809.38,29.36,-41.7,2015
+Trigo,4304952,Caseiros,Noroeste,16,1018.75,3143.75,3017.5,30.34,-47.18,2015
+Trigo,4305009,Catuípe,Noroeste,16,9875.0,22450.0,2206.25,36.77,-64.18,2014
+Trigo,4305116,Centenário,Noroeste,16,1193.75,3291.25,2681.25,33.2,-62.26,2015
+Trigo,4305157,Cerro Grande,Noroeste,16,1631.25,2843.12,1844.37,40.1,-56.33,2015
+Trigo,4305207,Cerro Largo,Noroeste,16,2425.0,5803.0,2412.5,32.77,-66.67,2014
+Trigo,4305306,Chapada,Noroeste,16,9187.5,24567.19,2653.12,30.51,-54.71,2014
+Trigo,4305371,Charrua,Noroeste,16,1095.0,3330.88,2900.0,40.29,-82.18,2015
+Trigo,4305405,Chiapetta,Noroeste,16,7875.0,18855.0,2381.25,38.1,-54.22,2014
+Trigo,4305504,Ciríaco,Noroeste,16,2140.62,6640.62,2787.33,36.36,-71.26,2015
+Trigo,4305603,Colorado,Noroeste,16,5706.25,14881.88,2630.0,39.15,-74.38,2014
+Trigo,4305702,Condor,Noroeste,16,8115.62,21020.62,2570.0,37.15,-62.09,2012
+Trigo,4305801,Constantina,Noroeste,16,4139.06,9650.94,2287.37,35.65,-53.85,2017
+Trigo,4305850,Coqueiros do Sul,Noroeste,16,1880.62,4952.62,2681.12,35.06,-80.61,2015
+Trigo,4305871,Coronel Barros,Noroeste,16,4962.5,10744.75,2161.88,36.65,-58.14,2014
+Trigo,4305900,Coronel Bicaco,Noroeste,16,8750.0,20382.5,2272.92,32.95,-58.75,2014
+Trigo,4305975,Coxilha,Noroeste,16,4062.5,11379.56,2819.06,24.55,-36.03,2012
+Trigo,4306007,Crissiumal,Noroeste,16,3856.25,8274.75,2138.75,27.32,-48.57,2014
+Trigo,4306072,Cristal do Sul,Noroeste,16,1086.88,2620.38,2329.75,30.06,-56.33,2014
+Trigo,4306106,Cruz Alta,Noroeste,16,21356.25,55943.81,2588.75,28.51,-50.79,2023
+Trigo,4306130,Cruzaltense,Noroeste,16,2112.5,5814.38,2681.25,39.31,-70.65,2015
+Trigo,4306205,Cruzeiro do Sul,Centro Oriental,16,535.0,1364.56,2456.25,27.25,-53.52,2017
+Trigo,4306320,Derrubadas,Noroeste,16,3356.25,8240.0,2411.96,29.61,-51.59,2017
+Trigo,4306429,Dois Irmãos das Missões,Noroeste,16,3168.75,7588.0,2374.34,36.95,-65.89,2015
+Trigo,4306734,Doutor Maurício Cardoso,Noroeste,16,5390.62,13309.06,2488.12,35.51,-65.71,2020
+Trigo,4306908,Encruzilhada do Sul,Sudeste,16,1881.88,4758.88,2404.38,23.09,-29.17,2015
+Trigo,4306924,Engenho Velho,Noroeste,16,1128.0,2549.25,2326.27,32.79,-54.17,2020
+Trigo,4306932,Entre-Ijuís,Noroeste,16,13037.5,30421.75,2310.0,32.89,-53.9,2017
+Trigo,4306957,Entre Rios do Sul,Noroeste,16,978.12,2584.44,2517.02,33.15,-67.96,2015
+Trigo,4306973,Erebango,Noroeste,16,1476.56,4598.44,2952.5,36.09,-77.13,2015
+Trigo,4307005,Erechim,Noroeste,16,1687.5,4673.69,2708.12,34.81,-60.18,2023
+Trigo,4307054,Ernestina,Noroeste,16,1318.75,3171.62,2397.5,33.57,-50.91,2012
+Trigo,4307302,Erval Seco,Noroeste,16,4185.62,10086.69,2362.84,33.95,-58.89,2014
+Trigo,4307401,Esmeralda,Nordeste,16,4943.75,15897.5,3175.0,22.32,-51.85,2015
+Trigo,4307450,Esperança do Sul,Noroeste,16,1268.75,2876.44,2253.46,31.18,-61.77,2023
+Trigo,4307500,Espumoso,Noroeste,16,14687.5,37118.75,2501.25,40.11,-74.33,2015
+Trigo,4307559,Estação,Noroeste,16,834.38,2614.62,3054.5,35.99,-81.65,2012
+Trigo,4307815,Estrela Velha,Centro Oriental,16,2291.56,5073.0,2137.27,38.22,-60.87,2017
+Trigo,4307831,Eugênio de Castro,Noroeste,16,12718.75,31615.62,2441.39,28.98,-58.16,2014
+Trigo,4308052,Faxinalzinho,Noroeste,16,750.0,1933.44,2600.0,39.95,-42.92,2023
+Trigo,4308250,Floriano Peixoto,Noroeste,16,717.5,2003.62,2786.25,35.47,-71.9,2015
+Trigo,4308458,Fortaleza dos Valos,Noroeste,16,6393.75,15670.31,2478.12,29.88,-50.0,2014
+Trigo,4308508,Frederico Westphalen,Noroeste,16,1325.0,3387.81,2415.62,30.45,-49.81,2014
+Trigo,4308656,Garruchos,Sudoeste,16,4932.5,11607.56,2323.12,27.9,-46.74,2023
+Trigo,4308706,Gaurama,Noroeste,16,1648.75,4850.62,2846.67,29.99,-53.41,2015
+Trigo,4308805,General Câmara,Metropolitana de Porto Alegre,14,908.43,2254.93,2365.18,24.01,-65.19,2015
+Trigo,4308854,Gentil,Noroeste,16,778.12,2201.94,2895.68,24.26,-43.82,2012
+Trigo,4308904,Getúlio Vargas,Noroeste,16,2496.88,7312.06,2913.12,37.69,-74.32,2015
+Trigo,4309001,Giruá,Noroeste,16,27062.5,61987.5,2305.0,30.56,-51.48,2017
+Trigo,4309126,Gramado dos Loureiros,Noroeste,16,786.88,2098.94,2572.13,27.36,-55.03,2015
+Trigo,4309506,Guarani das Missões,Noroeste,16,5525.0,11772.25,2135.0,37.59,-66.67,2020
+Trigo,4309605,Horizontina,Noroeste,16,2931.25,7069.0,2345.0,33.97,-70.52,2014
+Trigo,4309654,Hulha Negra,Sudoeste,13,657.69,1451.31,1985.77,25.86,-32.59,2023
+Trigo,4309704,Humaitá,Noroeste,16,3768.75,9434.38,2497.5,27.37,-45.59,2014
+Trigo,4309803,Ibiaçá,Noroeste,16,3134.38,10137.75,3196.25,35.45,-64.48,2015
+Trigo,4309902,Ibiraiaras,Noroeste,16,737.5,2396.19,3271.25,21.95,-58.33,2023
+Trigo,4309951,Ibirapuitã,Noroeste,16,855.19,2078.25,2450.1,39.99,-70.59,2015
+Trigo,4310009,Ibirubá,Noroeste,16,12125.0,32790.0,2685.0,32.59,-60.93,2014
+Trigo,4310207,Ijuí,Noroeste,16,13287.5,32023.75,2427.5,37.44,-55.71,2014
+Trigo,4310405,Independência,Noroeste,16,8500.0,19356.56,2263.12,31.19,-51.46,2014
+Trigo,4310413,Inhacorá,Noroeste,16,3118.75,7585.0,2391.25,32.41,-50.46,2012
+Trigo,4310439,Ipê,Nordeste,16,568.56,1290.19,2311.81,33.12,-75.63,2015
+Trigo,4310462,Ipiranga do Sul,Noroeste,16,2968.75,9002.25,2994.88,38.41,-83.85,2015
+Trigo,4310504,Iraí,Noroeste,16,925.0,2021.25,2101.67,36.65,-51.89,2017
+Trigo,4310553,Itacurubi,Centro Ocidental,16,3270.62,7291.0,2213.12,26.14,-47.45,2023
+Trigo,4310603,Itaqui,Sudoeste,16,7050.0,18874.38,2643.75,17.52,-40.0,2025
+Trigo,4310850,Jaboticaba,Noroeste,16,1768.75,3576.5,2138.77,35.61,-61.17,2015
+Trigo,4310876,Jacuizinho,Noroeste,16,3368.75,7681.0,2240.0,40.25,-60.59,2017
+Trigo,4310900,Jacutinga,Noroeste,16,2575.0,7652.94,2900.62,38.31,-70.55,2015
+Trigo,4311007,Jaguarão,Sudeste,16,2526.88,5580.75,2125.75,26.84,-79.73,2015
+Trigo,4311130,Jari,Centro Ocidental,16,5852.5,16003.0,2611.25,29.74,-51.58,2015
+Trigo,4311155,Jóia,Noroeste,16,20875.0,48420.0,2303.75,34.05,-55.67,2014
+Trigo,4311205,Júlio de Castilhos,Centro Ocidental,16,9303.12,26238.75,2846.25,29.94,-63.06,2017
+Trigo,4311254,Lagoão,Noroeste,16,670.0,1426.62,2157.5,19.57,-23.98,2017
+Trigo,4311270,Lagoa dos Três Cantos,Noroeste,16,1965.62,5087.31,2614.38,41.11,-64.16,2023
+Trigo,4311304,Lagoa Vermelha,Nordeste,16,5993.75,20697.25,3452.25,20.37,-48.79,2015
+Trigo,4311429,Lajeado do Bugre,Noroeste,16,1181.25,2019.12,1822.83,41.7,-61.83,2015
+Trigo,4311502,Lavras do Sul,Sudoeste,15,2161.47,5053.2,2352.28,16.63,-30.67,2022
+Trigo,4311601,Liberato Salzano,Noroeste,16,2078.12,4261.88,2022.33,31.74,-45.21,2014
+Trigo,4311700,Machadinho,Noroeste,16,2448.75,7872.38,3193.15,30.64,-61.44,2023
+Trigo,4311718,Maçambará,Sudoeste,16,12624.88,31608.0,2619.96,14.4,-22.82,2017
+Trigo,4311759,Manoel Viana,Sudoeste,16,7356.25,19119.94,2488.12,19.06,-37.67,2017
+Trigo,4311809,Marau,Noroeste,16,4021.88,11123.25,2707.56,34.63,-65.52,2012
+Trigo,4311908,Marcelino Ramos,Noroeste,16,785.25,2239.19,2815.11,27.79,-55.11,2015
+Trigo,4312138,Mato Castelhano,Noroeste,16,1171.88,3134.0,2661.44,32.9,-53.03,2012
+Trigo,4312179,Mato Queimado,Noroeste,16,2112.5,5406.56,2530.62,35.06,-65.64,2020
+Trigo,4312203,Maximiliano de Almeida,Noroeste,16,2589.38,7045.12,2742.68,39.0,-80.57,2014
+Trigo,4312252,Minas do Leão,Metropolitana de Porto Alegre,16,535.62,1293.56,2370.77,14.58,-31.08,2025
+Trigo,4312302,Miraguaí,Noroeste,16,1806.25,3371.19,1942.58,31.51,-50.95,2016
+Trigo,4312427,Mormaço,Noroeste,16,2293.75,5570.62,2557.5,39.17,-73.6,2015
+Trigo,4312617,Muitos Capões,Nordeste,16,16687.5,57918.75,3537.5,17.9,-27.71,2023
+Trigo,4312658,Não-Me-Toque,Noroeste,16,6602.5,18795.88,2827.5,30.58,-58.18,2015
+Trigo,4312674,Nicolau Vergueiro,Noroeste,16,1262.5,3346.0,2630.0,35.73,-64.61,2015
+Trigo,4312708,Nonoai,Noroeste,16,4356.25,12023.12,2802.84,29.0,-60.0,2014
+Trigo,4312757,Nova Alvorada,Nordeste,16,528.12,1388.0,2573.75,34.79,-52.61,2023
+Trigo,4312955,Nova Boa Vista,Noroeste,16,1225.0,2963.0,2468.12,34.79,-54.0,2014
+Trigo,4313011,Nova Candelária,Noroeste,16,830.44,2048.62,2421.25,30.21,-52.76,2014
+Trigo,4313102,Nova Palma,Centro Ocidental,16,825.0,2262.75,2723.12,28.14,-52.69,2014
+Trigo,4313334,Nova Ramada,Noroeste,16,6062.5,15300.62,2511.25,34.59,-65.95,2012
+Trigo,4313425,Novo Machado,Noroeste,16,3606.25,7908.75,2203.12,32.79,-61.91,2014
+Trigo,4313441,Novo Tiradentes,Noroeste,16,1301.5,3193.88,2386.49,34.94,-55.37,2014
+Trigo,4313466,Novo Xingu,Noroeste,16,1273.75,2674.44,2146.88,41.89,-42.95,2015
+Trigo,4313490,Novo Barreiro,Noroeste,16,1787.5,4058.12,2303.75,31.62,-54.95,2023
+Trigo,4313607,Paim Filho,Noroeste,16,750.0,2150.0,2843.75,35.75,-67.47,2015
+Trigo,4313706,Palmeira das Missões,Noroeste,16,31337.5,74958.12,2400.37,30.98,-51.02,2015
+Trigo,4313904,Panambi,Noroeste,16,6789.69,17290.12,2490.0,32.41,-52.31,2015
+Trigo,4313953,Pantano Grande,Centro Oriental,16,1381.25,3380.62,2493.75,16.12,-25.0,2023
+Trigo,4314100,Passo Fundo,Noroeste,16,3643.75,10038.75,2668.75,37.96,-63.95,2012
+Trigo,4314134,Paulo Bento,Noroeste,16,990.62,2693.5,2710.0,32.39,-68.56,2015
+Trigo,4314308,Pejuçara,Noroeste,16,11834.38,30397.69,2511.25,39.42,-60.16,2012
+Trigo,4314456,Pinhal,Noroeste,16,731.38,1464.06,1976.5,42.72,-64.63,2015
+Trigo,4314464,Pinhal da Serra,Nordeste,16,795.0,2483.75,3119.22,25.95,-54.55,2015
+Trigo,4314472,Pinhal Grande,Centro Ocidental,16,1312.5,4020.94,2975.5,24.68,-48.72,2014
+Trigo,4314555,Pirapó,Noroeste,16,2041.25,4828.88,2438.75,22.44,-42.68,2020
+Trigo,4314605,Piratini,Sudeste,16,1253.12,3056.25,2418.75,24.26,-60.78,2015
+Trigo,4314779,Pontão,Noroeste,16,3175.0,7317.81,2310.38,21.89,-32.64,2014
+Trigo,4314787,Ponte Preta,Noroeste,16,649.38,1665.94,2594.14,36.6,-62.27,2015
+Trigo,4315008,Porto Lucena,Noroeste,16,934.38,2051.25,2184.29,35.19,-66.08,2014
+Trigo,4315057,Porto Mauá,Noroeste,16,750.31,1681.0,2250.62,30.21,-62.5,2014
+Trigo,4315313,Quatro Irmãos,Noroeste,16,2237.5,6084.62,2657.47,37.46,-65.13,2015
+Trigo,4315321,Quevedos,Centro Ocidental,15,1134.67,2939.6,2392.67,28.78,-67.6,2017
+Trigo,4315354,Quinze de Novembro,Noroeste,16,2275.0,5791.88,2596.25,37.93,-64.72,2023
+Trigo,4315404,Redentora,Noroeste,16,5100.0,11879.38,2296.62,30.89,-32.22,2017
+Trigo,4315552,Rio dos Índios,Noroeste,16,2256.25,6245.5,2727.5,20.64,-41.58,2020
+Trigo,4315701,Rio Pardo,Centro Oriental,16,1917.69,4798.5,2134.38,33.83,-39.53,2017
+Trigo,4315909,Rodeio Bonito,Noroeste,16,723.12,1638.62,2283.75,34.67,-53.53,2015
+Trigo,4315958,Rolador,Noroeste,16,5309.38,13286.62,2521.25,32.44,-56.15,2014
+Trigo,4316105,Ronda Alta,Noroeste,16,5513.75,14424.12,2554.06,36.17,-68.51,2023
+Trigo,4316204,Rondinha,Noroeste,16,2087.5,5024.56,2378.12,30.31,-52.54,2015
+Trigo,4316303,Roque Gonzales,Noroeste,16,2962.5,6756.94,2311.88,32.59,-62.5,2014
+Trigo,4316402,Rosário do Sul,Sudoeste,10,1228.0,2842.4,2131.98,18.22,-15.35,2025
+Trigo,4316428,Sagrada Família,Noroeste,16,1490.62,3032.44,2009.4,38.34,-37.14,2017
+Trigo,4316436,Saldanha Marinho,Noroeste,16,4183.75,10543.88,2492.5,38.01,-71.5,2012
+Trigo,4316451,Salto do Jacuí,Noroeste,16,3843.75,9111.38,2328.75,39.35,-60.93,2014
+Trigo,4316477,Salvador das Missões,Noroeste,16,1515.0,3962.06,2575.74,26.24,-53.8,2014
+Trigo,4316600,Sananduva,Noroeste,16,1957.5,5585.69,2805.3,42.84,-76.46,2015
+Trigo,4316709,Santa Bárbara do Sul,Noroeste,16,12937.5,33800.0,2582.5,31.86,-55.8,2015
+Trigo,4316733,Santa Cecília do Sul,Noroeste,16,1658.12,5217.19,2932.24,34.89,-66.13,2015
+Trigo,4316907,Santa Maria,Centro Ocidental,16,786.94,1960.56,2475.03,25.54,-28.89,2018
+Trigo,4316972,Santa Margarida do Sul,Sudoeste,16,4067.88,9735.5,2434.77,19.51,-64.0,2015
+Trigo,4317004,Santana da Boa Vista,Sudeste,16,746.25,1512.25,2137.97,20.54,-40.48,2015
+Trigo,4317103,Sant'Ana do Livramento,Sudoeste,14,2896.43,5815.36,2271.43,23.83,-45.83,2023
+Trigo,4317202,Santa Rosa,Noroeste,16,9943.75,25268.88,2545.0,27.87,-65.9,2014
+Trigo,4317400,Santiago,Centro Ocidental,16,5589.38,13297.25,2399.88,30.27,-61.36,2014
+Trigo,4317509,Santo Ângelo,Noroeste,16,10934.38,25972.5,2410.0,40.59,-68.7,2014
+Trigo,4317558,Santo Antônio do Palma,Noroeste,16,518.75,1192.5,2284.79,31.37,-57.18,2012
+Trigo,4317707,Santo Antônio das Missões,Noroeste,16,12875.0,29507.44,2271.75,28.73,-47.14,2017
+Trigo,4317756,Santo Antônio do Planalto,Noroeste,16,2450.0,6780.38,2722.5,33.23,-66.54,2015
+Trigo,4317806,Santo Augusto,Noroeste,16,11781.25,30698.12,2606.25,28.84,-53.31,2014
+Trigo,4317905,Santo Cristo,Noroeste,16,1906.25,4623.75,2454.38,32.19,-62.03,2014
+Trigo,4317954,Santo Expedito do Sul,Noroeste,16,881.25,2771.44,2816.88,37.28,-73.83,2012
+Trigo,4318002,São Borja,Sudoeste,16,18812.5,44821.88,2402.68,19.35,-38.05,2020
+Trigo,4318101,São Francisco de Assis,Sudoeste,16,2916.44,7254.31,2524.86,28.18,-50.66,2023
+Trigo,4318309,São Gabriel,Sudoeste,16,5796.88,13159.5,2302.61,23.19,-61.89,2015
+Trigo,4318424,São João da Urtiga,Noroeste,16,1146.25,3262.88,2823.16,33.19,-66.2,2015
+Trigo,4318457,São José das Missões,Noroeste,16,1398.75,2766.31,1999.92,37.77,-57.14,2014
+Trigo,4318499,São José do Inhacorá,Noroeste,16,688.75,1405.75,2068.75,28.29,-62.19,2014
+Trigo,4318606,São José do Ouro,Noroeste,16,2187.5,7476.25,3318.75,29.26,-71.63,2015
+Trigo,4318903,São Luiz Gonzaga,Noroeste,16,27350.0,70726.5,2602.5,30.33,-63.62,2014
+Trigo,4319109,São Martinho,Noroeste,16,5881.25,14498.75,2425.62,33.13,-62.35,2014
+Trigo,4319125,São Martinho da Serra,Centro Ocidental,16,3130.62,9231.12,2908.7,25.75,-60.0,2015
+Trigo,4319158,São Miguel das Missões,Noroeste,16,22818.75,56796.75,2488.75,30.22,-63.3,2014
+Trigo,4319208,São Nicolau,Noroeste,16,5541.31,13177.38,2357.19,29.35,-56.1,2017
+Trigo,4319307,São Paulo das Missões,Noroeste,16,865.62,2052.75,2423.75,37.95,-64.71,2014
+Trigo,4319364,São Pedro das Missões,Noroeste,16,2243.75,5048.12,2150.0,40.87,-48.76,2015
+Trigo,4319372,São Pedro do Butiá,Noroeste,16,2056.25,4720.62,2308.75,36.09,-72.41,2014
+Trigo,4319604,São Sepé,Centro Ocidental,16,3356.25,9020.62,2722.5,18.19,-27.13,2015
+Trigo,4319703,São Valentim,Noroeste,16,634.38,1593.38,2545.43,25.49,-54.11,2023
+Trigo,4319737,São Valério do Sul,Noroeste,16,2431.25,5648.12,2350.0,37.8,-52.79,2012
+Trigo,4320107,Sarandi,Noroeste,16,5550.0,15774.94,2725.0,36.73,-55.56,2015
+Trigo,4320206,Seberi,Noroeste,16,4938.75,11568.06,2362.25,36.62,-63.06,2023
+Trigo,4320230,Sede Nova,Noroeste,16,4000.0,10475.62,2621.25,33.2,-68.92,2023
+Trigo,4320305,Selbach,Noroeste,16,2943.75,8004.5,2670.0,32.37,-55.24,2014
+Trigo,4320321,Senador Salgado Filho,Noroeste,16,3673.75,8722.81,2388.12,33.22,-67.8,2014
+Trigo,4320503,Sertão,Noroeste,16,5681.25,16869.56,2937.37,34.15,-61.08,2015
+Trigo,4320578,Sete de Setembro,Noroeste,16,2081.25,4050.88,1930.62,31.12,-54.54,2020
+Trigo,4320602,Severiano de Almeida,Noroeste,16,783.12,2041.88,2681.25,26.94,-52.03,2023
+Trigo,4320800,Soledade,Noroeste,16,3956.25,10399.62,2435.0,34.31,-65.91,2015
+Trigo,4320909,Tapejara,Noroeste,16,2963.75,9055.12,2925.0,39.01,-71.98,2015
+Trigo,4321006,Tapera,Noroeste,16,3175.0,7895.88,2492.5,43.12,-65.95,2015
+Trigo,4321329,Taquaruçu do Sul,Noroeste,16,597.5,1389.81,2308.56,29.54,-50.39,2023
+Trigo,4321402,Tenente Portela,Noroeste,16,6343.75,15191.88,2408.75,25.94,-40.0,2014
+Trigo,4321469,Tio Hugo,Noroeste,16,918.75,2452.81,2704.31,38.48,-59.6,2015
+Trigo,4321477,Tiradentes do Sul,Noroeste,16,2268.75,4926.88,2106.25,40.86,-59.26,2023
+Trigo,4321634,Três Arroios,Noroeste,16,824.38,1824.88,2336.14,37.95,-52.75,2015
+Trigo,4321808,Três de Maio,Noroeste,16,9947.5,25416.62,2523.75,28.28,-69.64,2014
+Trigo,4321857,Três Palmeiras,Noroeste,16,2484.38,6106.31,2453.75,37.93,-70.83,2015
+Trigo,4321907,Três Passos,Noroeste,16,3618.75,8613.25,2375.0,30.28,-55.01,2014
+Trigo,4321956,Trindade do Sul,Noroeste,16,2467.38,5889.56,2356.69,41.42,-61.77,2020
+Trigo,4322103,Tucunduva,Noroeste,16,3295.0,7355.62,2243.74,38.2,-74.77,2020
+Trigo,4322152,Tunas,Noroeste,16,652.5,1313.62,2030.34,34.04,-46.4,2014
+Trigo,4322186,Tupanci do Sul,Noroeste,16,672.5,2034.38,2981.25,29.86,-57.16,2023
+Trigo,4322202,Tupanciretã,Centro Ocidental,16,19168.81,53309.31,2758.12,25.11,-57.23,2015
+Trigo,4322301,Tuparendi,Noroeste,16,3643.75,7958.25,2206.34,29.68,-64.99,2014
+Trigo,4322343,Ubiretama,Noroeste,16,1206.25,2513.19,2068.44,35.67,-58.15,2014
+Trigo,4322376,Unistalda,Centro Ocidental,16,1508.75,3701.06,2456.57,24.09,-47.5,2014
+Trigo,4322509,Vacaria,Nordeste,16,6790.0,23247.69,3389.38,17.02,-25.95,2015
+Trigo,4322525,Vale Verde,Metropolitana de Porto Alegre,10,659.8,909.8,1627.3,26.78,-34.83,2011
+Trigo,4322905,Viadutos,Noroeste,16,1287.5,3709.75,2805.26,30.44,-60.53,2023
+Trigo,4323101,Vicente Dutra,Noroeste,16,990.62,2539.12,2393.04,26.16,-40.44,2014
+Trigo,4323200,Victor Graeff,Noroeste,16,3584.38,9746.38,2718.25,34.23,-60.95,2015
+Trigo,4323358,Vila Lângaro,Noroeste,16,1221.25,3720.88,2950.0,41.07,-81.03,2012
+Trigo,4323408,Vila Maria,Noroeste,16,2068.75,5238.19,2457.87,40.97,-62.03,2015
+Trigo,4323457,Vila Nova do Sul,Centro Ocidental,16,1251.5,3028.88,2321.92,25.15,-46.11,2017
+Trigo,4323705,Vista Gaúcha,Noroeste,16,584.38,1477.5,2450.0,23.09,-55.14,2014
+Trigo,4323754,Vitória das Missões,Noroeste,16,2775.0,6921.69,2533.75,27.08,-64.71,2014

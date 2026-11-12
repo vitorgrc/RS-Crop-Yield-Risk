@@ -1,0 +1,498 @@
+cod_municipio,municipio,mesorregiao,latitude,longitude
+4300034,Aceguá,Sudoeste,-31.8665,-54.1615
+4300109,Agudo,Centro Ocidental,-29.6447,-53.2515
+4300208,Ajuricaba,Noroeste,-28.2342,-53.7757
+4300307,Alecrim,Noroeste,-27.6579,-54.7649
+4300406,Alegrete,Sudoeste,-29.7902,-55.7949
+4300455,Alegria,Noroeste,-27.8345,-54.0557
+4300471,Almirante Tamandaré do Sul,Noroeste,-28.1149,-52.9142
+4300505,Alpestre,Noroeste,-27.2502,-53.0341
+4300554,Alto Alegre,Noroeste,-28.7769,-52.9893
+4300570,Alto Feliz,Metropolitana de Porto Alegre,-29.3919,-51.3123
+4300604,Alvorada,Metropolitana de Porto Alegre,-29.9914,-51.0809
+4300638,Amaral Ferrador,Sudeste,-30.8756,-52.2509
+4300646,Ametista do Sul,Noroeste,-27.3607,-53.183
+4300661,André da Rocha,Nordeste,-28.6283,-51.5797
+4300703,Anta Gorda,Nordeste,-28.9698,-52.0102
+4300802,Antônio Prado,Nordeste,-28.8565,-51.2883
+4300851,Arambaré,Metropolitana de Porto Alegre,-30.9092,-51.5046
+4300877,Araricá,Metropolitana de Porto Alegre,-29.6168,-50.9291
+4300901,Aratiba,Noroeste,-27.3978,-52.2975
+4301305,Arroio Grande,Sudeste,-32.2327,-53.0862
+4301008,Arroio do Meio,Centro Oriental,-29.4014,-51.9557
+4301073,Arroio do Padre,Sudeste,-31.4389,-52.4246
+4301057,Arroio do Sal,Metropolitana de Porto Alegre,-29.5439,-49.8895
+4301206,Arroio do Tigre,Centro Oriental,-29.3348,-53.0966
+4301107,Arroio dos Ratos,Metropolitana de Porto Alegre,-30.0875,-51.7275
+4301404,Arvorezinha,Nordeste,-28.8737,-52.1781
+4301503,Augusto Pestana,Noroeste,-28.5172,-53.9883
+4301602,Bagé,Sudoeste,-31.3297,-54.0999
+4301636,Balneário Pinhal,Metropolitana de Porto Alegre,-30.2419,-50.2337
+4301958,Barra Funda,Noroeste,-27.9205,-53.0391
+4301859,Barra do Guarita,Noroeste,-27.1927,-53.7109
+4301875,Barra do Quaraí,Sudoeste,-30.2029,-57.5497
+4301909,Barra do Ribeiro,Metropolitana de Porto Alegre,-30.2939,-51.3014
+4301925,Barra do Rio Azul,Noroeste,-27.4069,-52.4084
+4301800,Barracão,Noroeste,-27.6739,-51.4585
+4302006,Barros Cassal,Noroeste,-29.0947,-52.5836
+4301651,Barão,Metropolitana de Porto Alegre,-29.3725,-51.4949
+4301701,Barão de Cotegipe,Noroeste,-27.6208,-52.3798
+4301750,Barão do Triunfo,Metropolitana de Porto Alegre,-30.3891,-51.7384
+4302055,Benjamin Constant do Sul,Noroeste,-27.5086,-52.5995
+4302105,Bento Gonçalves,Nordeste,-29.1662,-51.5165
+4302154,Boa Vista das Missões,Noroeste,-27.6671,-53.3102
+4302204,Boa Vista do Buricá,Noroeste,-27.6693,-54.1082
+4302220,Boa Vista do Cadeado,Noroeste,-28.5791,-53.8108
+4302238,Boa Vista do Incra,Noroeste,-28.8185,-53.391
+4302253,Boa Vista do Sul,Nordeste,-29.3544,-51.6687
+4302303,Bom Jesus,Nordeste,-28.6697,-50.4295
+4302352,Bom Princípio,Metropolitana de Porto Alegre,-29.4856,-51.3548
+4302378,Bom Progresso,Noroeste,-27.5399,-53.8716
+4302402,Bom Retiro do Sul,Centro Oriental,-29.6071,-51.9456
+4302451,Boqueirão do Leão,Centro Oriental,-29.3046,-52.4284
+4302501,Bossoroca,Noroeste,-28.7291,-54.9035
+4302584,Bozano,Noroeste,-28.3659,-53.772
+4302600,Braga,Noroeste,-27.6173,-53.7405
+4302659,Brochier,Metropolitana de Porto Alegre,-29.5501,-51.5945
+4302709,Butiá,Metropolitana de Porto Alegre,-30.1179,-51.9601
+4302907,Cacequi,Centro Ocidental,-29.8883,-54.822
+4303004,Cachoeira do Sul,Centro Oriental,-30.033,-52.8928
+4303103,Cachoeirinha,Metropolitana de Porto Alegre,-29.9472,-51.1016
+4303202,Cacique Doble,Noroeste,-27.767,-51.6597
+4303301,Caibaté,Noroeste,-28.2905,-54.6454
+4303400,Caiçara,Noroeste,-27.2791,-53.4257
+4303509,Camaquã,Metropolitana de Porto Alegre,-30.8489,-51.8043
+4303558,Camargo,Noroeste,-28.588,-52.2003
+4303608,Cambará do Sul,Nordeste,-29.0474,-50.1465
+4303673,Campestre da Serra,Nordeste,-28.7926,-51.0941
+4303707,Campina das Missões,Noroeste,-27.9888,-54.8416
+4303806,Campinas do Sul,Noroeste,-27.7174,-52.6248
+4303905,Campo Bom,Metropolitana de Porto Alegre,-29.6747,-51.0606
+4304002,Campo Novo,Noroeste,-27.6792,-53.8052
+4304101,Campos Borges,Noroeste,-28.8871,-53.0008
+4304200,Candelária,Centro Oriental,-29.6684,-52.7895
+4304358,Candiota,Sudeste,-31.5516,-53.6773
+4304408,Canela,Metropolitana de Porto Alegre,-29.356,-50.8119
+4304507,Canguçu,Sudeste,-31.396,-52.6783
+4304606,Canoas,Metropolitana de Porto Alegre,-29.9128,-51.1857
+4304614,Canudos do Vale,Centro Oriental,-29.3271,-52.2374
+4304689,Capela de Santana,Metropolitana de Porto Alegre,-29.6961,-51.328
+4304697,Capitão,Centro Oriental,-29.2674,-51.9853
+4304671,Capivari do Sul,Metropolitana de Porto Alegre,-30.1383,-50.5152
+4304622,Capão Bonito do Sul,Nordeste,-28.1254,-51.3961
+4304630,Capão da Canoa,Metropolitana de Porto Alegre,-29.7642,-50.0282
+4304655,Capão do Cipó,Centro Ocidental,-28.9312,-54.5558
+4304663,Capão do Leão,Sudeste,-31.7565,-52.4889
+4304705,Carazinho,Noroeste,-28.2958,-52.7933
+4304713,Caraá,Metropolitana de Porto Alegre,-29.7869,-50.4316
+4304804,Carlos Barbosa,Nordeste,-29.2969,-51.5028
+4304853,Carlos Gomes,Noroeste,-27.7167,-51.9121
+4304903,Casca,Noroeste,-28.5605,-51.9815
+4304952,Caseiros,Noroeste,-28.2582,-51.6861
+4305009,Catuípe,Noroeste,-28.2554,-54.0132
+4305108,Caxias do Sul,Nordeste,-29.1629,-51.1792
+4302808,Caçapava do Sul,Sudeste,-30.5144,-53.4827
+4305116,Centenário,Noroeste,-27.7615,-51.9984
+4305124,Cerrito,Sudeste,-31.8419,-52.8004
+4305132,Cerro Branco,Centro Oriental,-29.657,-52.9406
+4305157,Cerro Grande,Noroeste,-27.6106,-53.1672
+4305173,Cerro Grande do Sul,Metropolitana de Porto Alegre,-30.5905,-51.7418
+4305207,Cerro Largo,Noroeste,-28.1463,-54.7428
+4305306,Chapada,Noroeste,-28.0559,-53.0665
+4305355,Charqueadas,Metropolitana de Porto Alegre,-29.9625,-51.6289
+4305371,Charrua,Noroeste,-27.9493,-52.015
+4305405,Chiapetta,Noroeste,-27.923,-53.9419
+4305447,Chuvisca,Metropolitana de Porto Alegre,-30.7504,-51.9737
+4305439,Chuí,Sudeste,-33.6866,-53.4594
+4305454,Cidreira,Metropolitana de Porto Alegre,-30.1604,-50.2337
+4305504,Ciríaco,Noroeste,-28.3419,-51.8741
+4305587,Colinas,Centro Oriental,-29.3948,-51.8556
+4305603,Colorado,Noroeste,-28.5258,-52.9928
+4305702,Condor,Noroeste,-28.2075,-53.4905
+4305801,Constantina,Noroeste,-27.732,-52.9938
+4305835,Coqueiro Baixo,Centro Oriental,-29.1802,-52.0942
+4305850,Coqueiros do Sul,Noroeste,-28.1194,-52.7842
+4305871,Coronel Barros,Noroeste,-28.3921,-54.0686
+4305900,Coronel Bicaco,Noroeste,-27.7197,-53.7022
+4305934,Coronel Pilar,Nordeste,-29.2695,-51.6847
+4305959,Cotiporã,Nordeste,-28.9891,-51.6971
+4305975,Coxilha,Noroeste,-28.128,-52.3023
+4306007,Crissiumal,Noroeste,-27.4999,-54.0994
+4306056,Cristal,Sudeste,-31.0046,-52.0436
+4306072,Cristal do Sul,Noroeste,-27.452,-53.2422
+4306106,Cruz Alta,Noroeste,-28.645,-53.6048
+4306130,Cruzaltense,Noroeste,-27.6672,-52.6522
+4306205,Cruzeiro do Sul,Centro Oriental,-29.5148,-51.9928
+4304309,Cândido Godói,Noroeste,-27.9515,-54.7517
+4306304,David Canabarro,Noroeste,-28.3849,-51.8482
+4306320,Derrubadas,Noroeste,-27.2642,-53.8645
+4306353,Dezesseis de Novembro,Noroeste,-28.219,-55.0617
+4306379,Dilermando de Aguiar,Centro Ocidental,-29.7054,-54.2122
+4306403,Dois Irmãos,Metropolitana de Porto Alegre,-29.5836,-51.0898
+4306429,Dois Irmãos das Missões,Noroeste,-27.6621,-53.5304
+4306452,Dois Lajeados,Nordeste,-28.983,-51.8396
+4306502,Dom Feliciano,Metropolitana de Porto Alegre,-30.7004,-52.1026
+4306601,Dom Pedrito,Sudoeste,-30.9756,-54.6694
+4306551,Dom Pedro de Alcântara,Metropolitana de Porto Alegre,-29.3639,-49.853
+4306700,Dona Francisca,Centro Ocidental,-29.6195,-53.3617
+4306734,Doutor Maurício Cardoso,Noroeste,-27.5103,-54.3577
+4306759,Doutor Ricardo,Centro Oriental,-29.084,-51.9972
+4306767,Eldorado do Sul,Metropolitana de Porto Alegre,-30.0847,-51.6187
+4306809,Encantado,Centro Oriental,-29.2351,-51.8703
+4306908,Encruzilhada do Sul,Sudeste,-30.543,-52.5204
+4306924,Engenho Velho,Noroeste,-27.706,-52.9145
+4306957,Entre Rios do Sul,Noroeste,-27.5298,-52.7347
+4306932,Entre-Ijuís,Noroeste,-28.3686,-54.2686
+4306973,Erebango,Noroeste,-27.8544,-52.3005
+4307005,Erechim,Noroeste,-27.6364,-52.2697
+4307054,Ernestina,Noroeste,-28.4977,-52.5836
+4307203,Erval Grande,Noroeste,-27.3926,-52.574
+4307302,Erval Seco,Noroeste,-27.5443,-53.5005
+4307401,Esmeralda,Nordeste,-28.0518,-51.1933
+4307450,Esperança do Sul,Noroeste,-27.3603,-53.9891
+4307500,Espumoso,Noroeste,-28.7286,-52.8461
+4307559,Estação,Noroeste,-27.9135,-52.2635
+4307708,Esteio,Metropolitana de Porto Alegre,-29.852,-51.1841
+4307807,Estrela,Centro Oriental,-29.5002,-51.9495
+4307815,Estrela Velha,Centro Oriental,-29.1713,-53.1639
+4307609,Estância Velha,Metropolitana de Porto Alegre,-29.6535,-51.1843
+4307831,Eugênio de Castro,Noroeste,-28.5315,-54.1506
+4307864,Fagundes Varela,Nordeste,-28.8794,-51.7014
+4307906,Farroupilha,Nordeste,-29.2227,-51.3419
+4308003,Faxinal do Soturno,Centro Ocidental,-29.5788,-53.4484
+4308052,Faxinalzinho,Noroeste,-27.4238,-52.6789
+4308078,Fazenda Vilanova,Centro Oriental,-29.5885,-51.8217
+4308102,Feliz,Metropolitana de Porto Alegre,-29.4527,-51.3032
+4308201,Flores da Cunha,Nordeste,-29.0261,-51.1875
+4308250,Floriano Peixoto,Noroeste,-27.8614,-52.0838
+4308300,Fontoura Xavier,Noroeste,-28.9817,-52.3445
+4308409,Formigueiro,Centro Ocidental,-30.0035,-53.4959
+4308433,Forquetinha,Centro Oriental,-29.3828,-52.0981
+4308458,Fortaleza dos Valos,Noroeste,-28.7986,-53.2249
+4308508,Frederico Westphalen,Noroeste,-27.3586,-53.3958
+4308607,Garibaldi,Nordeste,-29.259,-51.5352
+4308656,Garruchos,Sudoeste,-28.1944,-55.6383
+4308706,Gaurama,Noroeste,-27.5856,-52.0915
+4308805,General Câmara,Metropolitana de Porto Alegre,-29.9032,-51.7612
+4308854,Gentil,Noroeste,-28.4316,-52.0337
+4308904,Getúlio Vargas,Noroeste,-27.8911,-52.2294
+4309001,Giruá,Noroeste,-28.0297,-54.3517
+4309050,Glorinha,Metropolitana de Porto Alegre,-29.8798,-50.7734
+4309100,Gramado,Metropolitana de Porto Alegre,-29.3734,-50.8762
+4309159,Gramado Xavier,Centro Oriental,-29.2706,-52.5795
+4309126,Gramado dos Loureiros,Noroeste,-27.4429,-52.9149
+4309209,Gravataí,Metropolitana de Porto Alegre,-29.9413,-50.9869
+4309258,Guabiju,Nordeste,-28.5421,-51.6948
+4309407,Guaporé,Nordeste,-28.8399,-51.8895
+4309506,Guarani das Missões,Noroeste,-28.1491,-54.5629
+4309308,Guaíba,Metropolitana de Porto Alegre,-30.1086,-51.3233
+4309555,Harmonia,Metropolitana de Porto Alegre,-29.5456,-51.4185
+4307104,Herval,Sudeste,-32.024,-53.3944
+4309571,Herveiras,Centro Oriental,-29.4552,-52.6553
+4309605,Horizontina,Noroeste,-27.6282,-54.3053
+4309654,Hulha Negra,Sudoeste,-31.4067,-53.8667
+4309704,Humaitá,Noroeste,-27.5691,-53.9695
+4309753,Ibarama,Centro Oriental,-29.4203,-53.1295
+4309803,Ibiaçá,Noroeste,-28.0566,-51.8599
+4309902,Ibiraiaras,Noroeste,-28.3741,-51.6377
+4309951,Ibirapuitã,Noroeste,-28.6247,-52.5158
+4310009,Ibirubá,Noroeste,-28.6302,-53.0961
+4310108,Igrejinha,Metropolitana de Porto Alegre,-29.5693,-50.7919
+4310207,Ijuí,Noroeste,-28.388,-53.92
+4310306,Ilópolis,Nordeste,-28.9282,-52.1258
+4310330,Imbé,Metropolitana de Porto Alegre,-29.9753,-50.1281
+4310363,Imigrante,Centro Oriental,-29.3508,-51.7748
+4310405,Independência,Noroeste,-27.8354,-54.1886
+4310413,Inhacorá,Noroeste,-27.8752,-54.015
+4310462,Ipiranga do Sul,Noroeste,-27.9404,-52.4271
+4310439,Ipê,Nordeste,-28.8171,-51.2859
+4310504,Iraí,Noroeste,-27.1951,-53.2543
+4310538,Itaara,Centro Ocidental,-29.6013,-53.7725
+4310553,Itacurubi,Centro Ocidental,-28.7913,-55.2447
+4310579,Itapuca,Nordeste,-28.7768,-52.1693
+4310603,Itaqui,Sudoeste,-29.1311,-56.5515
+4310652,Itati,Metropolitana de Porto Alegre,-29.4974,-50.1016
+4310702,Itatiba do Sul,Noroeste,-27.3846,-52.4538
+4310751,Ivorá,Centro Ocidental,-29.5232,-53.5842
+4310801,Ivoti,Metropolitana de Porto Alegre,-29.5995,-51.1533
+4310850,Jaboticaba,Noroeste,-27.6347,-53.2762
+4310876,Jacuizinho,Noroeste,-29.0401,-53.0657
+4310900,Jacutinga,Noroeste,-27.7291,-52.5372
+4311106,Jaguari,Centro Ocidental,-29.4936,-54.703
+4311007,Jaguarão,Sudeste,-32.5604,-53.377
+4311122,Jaquirana,Nordeste,-28.8811,-50.3637
+4311130,Jari,Centro Ocidental,-29.2922,-54.2237
+4311155,Jóia,Noroeste,-28.6435,-54.1141
+4311205,Júlio de Castilhos,Centro Ocidental,-29.2299,-53.6772
+4311239,Lagoa Bonita do Sul,Centro Oriental,-29.4939,-53.017
+4311304,Lagoa Vermelha,Nordeste,-28.2093,-51.5248
+4311270,Lagoa dos Três Cantos,Noroeste,-28.5676,-52.8618
+4311254,Lagoão,Noroeste,-29.2348,-52.7997
+4311403,Lajeado,Centro Oriental,-29.4591,-51.9644
+4311429,Lajeado do Bugre,Noroeste,-27.6913,-53.1818
+4311502,Lavras do Sul,Sudoeste,-30.8071,-53.8931
+4311601,Liberato Salzano,Noroeste,-27.601,-53.0753
+4311627,Lindolfo Collor,Metropolitana de Porto Alegre,-29.5859,-51.2141
+4311643,Linha Nova,Metropolitana de Porto Alegre,-29.4679,-51.2003
+4311700,Machadinho,Noroeste,-27.5667,-51.6668
+4311734,Mampituba,Metropolitana de Porto Alegre,-29.2136,-49.9311
+4311759,Manoel Viana,Sudoeste,-29.5859,-55.4841
+4311775,Maquiné,Metropolitana de Porto Alegre,-29.6798,-50.2079
+4311791,Maratá,Metropolitana de Porto Alegre,-29.5457,-51.5573
+4311809,Marau,Noroeste,-28.4498,-52.1986
+4311908,Marcelino Ramos,Noroeste,-27.4676,-51.9095
+4311981,Mariana Pimentel,Metropolitana de Porto Alegre,-30.353,-51.5803
+4312005,Mariano Moro,Noroeste,-27.3568,-52.1467
+4312054,Marques de Souza,Centro Oriental,-29.3311,-52.0973
+4312104,Mata,Centro Ocidental,-29.5649,-54.4641
+4312138,Mato Castelhano,Noroeste,-28.28,-52.1932
+4312153,Mato Leitão,Centro Oriental,-29.5285,-52.1278
+4312179,Mato Queimado,Noroeste,-28.252,-54.6159
+4312203,Maximiliano de Almeida,Noroeste,-27.6325,-51.802
+4311718,Maçambará,Sudoeste,-29.1445,-56.0674
+4312252,Minas do Leão,Metropolitana de Porto Alegre,-30.1346,-52.0423
+4312302,Miraguaí,Noroeste,-27.497,-53.6891
+4312351,Montauri,Nordeste,-28.6462,-52.0767
+4312377,Monte Alegre dos Campos,Nordeste,-28.6805,-50.7834
+4312385,Monte Belo do Sul,Nordeste,-29.1607,-51.6333
+4312401,Montenegro,Metropolitana de Porto Alegre,-29.6824,-51.4679
+4312427,Mormaço,Noroeste,-28.6968,-52.6999
+4312443,Morrinhos do Sul,Metropolitana de Porto Alegre,-29.3578,-49.9328
+4312450,Morro Redondo,Sudeste,-31.5887,-52.6261
+4312476,Morro Reuter,Metropolitana de Porto Alegre,-29.5379,-51.0811
+4312500,Mostardas,Metropolitana de Porto Alegre,-31.1054,-50.9167
+4312617,Muitos Capões,Nordeste,-28.3132,-51.1836
+4312625,Muliterno,Noroeste,-28.3253,-51.7697
+4312609,Muçum,Centro Oriental,-29.163,-51.8714
+4312674,Nicolau Vergueiro,Noroeste,-28.5298,-52.4676
+4312708,Nonoai,Noroeste,-27.3689,-52.7756
+4312757,Nova Alvorada,Nordeste,-28.6822,-52.1631
+4312807,Nova Araçá,Nordeste,-28.6537,-51.7458
+4312906,Nova Bassano,Nordeste,-28.7291,-51.7072
+4312955,Nova Boa Vista,Noroeste,-27.9926,-52.9784
+4313003,Nova Bréscia,Centro Oriental,-29.2182,-52.0319
+4313011,Nova Candelária,Noroeste,-27.6137,-54.1074
+4313037,Nova Esperança do Sul,Centro Ocidental,-29.4066,-54.8293
+4313060,Nova Hartz,Metropolitana de Porto Alegre,-29.5808,-50.9051
+4313102,Nova Palma,Centro Ocidental,-29.471,-53.4689
+4313201,Nova Petrópolis,Metropolitana de Porto Alegre,-29.3741,-51.1136
+4313300,Nova Prata,Nordeste,-28.7799,-51.6113
+4313086,Nova Pádua,Nordeste,-29.0275,-51.3098
+4313334,Nova Ramada,Noroeste,-28.0667,-53.6992
+4313359,Nova Roma do Sul,Nordeste,-28.9882,-51.4095
+4313375,Nova Santa Rita,Metropolitana de Porto Alegre,-29.8525,-51.2837
+4313490,Novo Barreiro,Noroeste,-27.9077,-53.1103
+4313391,Novo Cabrais,Centro Oriental,-29.7338,-52.9489
+4313409,Novo Hamburgo,Metropolitana de Porto Alegre,-29.6875,-51.1328
+4313425,Novo Machado,Noroeste,-27.5765,-54.5036
+4313441,Novo Tiradentes,Noroeste,-27.5649,-53.1837
+4313466,Novo Xingu,Noroeste,-27.749,-53.0639
+4312658,Não-Me-Toque,Noroeste,-28.4548,-52.8182
+4313508,Osório,Metropolitana de Porto Alegre,-29.8881,-50.2667
+4313607,Paim Filho,Noroeste,-27.7075,-51.763
+4313656,Palmares do Sul,Metropolitana de Porto Alegre,-30.2535,-50.5103
+4313706,Palmeira das Missões,Noroeste,-27.9007,-53.3134
+4313805,Palmitinho,Noroeste,-27.3596,-53.558
+4313904,Panambi,Noroeste,-28.2833,-53.5023
+4313953,Pantano Grande,Centro Oriental,-30.1902,-52.3729
+4314001,Paraí,Nordeste,-28.5964,-51.7896
+4314027,Paraíso do Sul,Centro Oriental,-29.6717,-53.144
+4314035,Pareci Novo,Metropolitana de Porto Alegre,-29.6365,-51.3974
+4314050,Parobé,Metropolitana de Porto Alegre,-29.6243,-50.8312
+4314068,Passa Sete,Centro Oriental,-29.4577,-52.9599
+4314100,Passo Fundo,Noroeste,-28.2576,-52.4091
+4314076,Passo do Sobrado,Centro Oriental,-29.748,-52.2748
+4314134,Paulo Bento,Noroeste,-27.7051,-52.4169
+4314159,Paverama,Centro Oriental,-29.5486,-51.7339
+4314175,Pedras Altas,Sudeste,-31.7365,-53.5814
+4314209,Pedro Osório,Sudeste,-31.8642,-52.8184
+4314308,Pejuçara,Noroeste,-28.4283,-53.6579
+4314407,Pelotas,Sudeste,-31.7649,-52.3371
+4314423,Picada Café,Metropolitana de Porto Alegre,-29.4464,-51.1367
+4314456,Pinhal,Noroeste,-27.508,-53.2082
+4314472,Pinhal Grande,Centro Ocidental,-29.345,-53.3206
+4314464,Pinhal da Serra,Nordeste,-27.8751,-51.1673
+4314498,Pinheirinho do Vale,Noroeste,-27.2109,-53.608
+4314506,Pinheiro Machado,Sudeste,-31.5794,-53.3798
+4314548,Pinto Bandeira,Nordeste,-29.0975,-51.4503
+4314555,Pirapó,Noroeste,-28.0439,-55.2001
+4314605,Piratini,Sudeste,-31.4473,-53.0973
+4314704,Planalto,Noroeste,-27.3297,-53.0575
+4314787,Ponte Preta,Noroeste,-27.6587,-52.4848
+4314779,Pontão,Noroeste,-28.0585,-52.6791
+4314902,Porto Alegre,Metropolitana de Porto Alegre,-30.0318,-51.2065
+4315008,Porto Lucena,Noroeste,-27.8569,-55.01
+4315057,Porto Mauá,Noroeste,-27.5796,-54.6657
+4315073,Porto Vera Cruz,Noroeste,-27.7405,-54.8994
+4315107,Porto Xavier,Noroeste,-27.9082,-55.1379
+4314803,Portão,Metropolitana de Porto Alegre,-29.7015,-51.2429
+4315131,Pouso Novo,Centro Oriental,-29.1738,-52.2136
+4314753,Poço das Antas,Metropolitana de Porto Alegre,-29.4481,-51.6719
+4315149,Presidente Lucena,Metropolitana de Porto Alegre,-29.5175,-51.1798
+4315156,Progresso,Centro Oriental,-29.2441,-52.3197
+4315172,Protásio Alves,Nordeste,-28.7572,-51.4757
+4315206,Putinga,Nordeste,-29.0045,-52.1569
+4315305,Quaraí,Sudoeste,-30.384,-56.4483
+4315313,Quatro Irmãos,Noroeste,-27.8257,-52.4424
+4315321,Quevedos,Centro Ocidental,-29.3504,-54.0789
+4315354,Quinze de Novembro,Noroeste,-28.7466,-53.1011
+4315404,Redentora,Noroeste,-27.664,-53.6407
+4315453,Relvado,Centro Oriental,-29.1164,-52.0778
+4315503,Restinga Sêca,Centro Ocidental,-29.8188,-53.3807
+4315602,Rio Grande,Sudeste,-32.0349,-52.1071
+4315701,Rio Pardo,Centro Oriental,-29.988,-52.3711
+4315552,Rio dos Índios,Noroeste,-27.2973,-52.8417
+4315750,Riozinho,Metropolitana de Porto Alegre,-29.639,-50.4488
+4315800,Roca Sales,Centro Oriental,-29.2884,-51.8658
+4315909,Rodeio Bonito,Noroeste,-27.4742,-53.1706
+4315958,Rolador,Noroeste,-28.2566,-54.8186
+4316006,Rolante,Metropolitana de Porto Alegre,-29.6462,-50.5819
+4316105,Ronda Alta,Noroeste,-27.7758,-52.8056
+4316204,Rondinha,Noroeste,-27.8315,-52.9081
+4316303,Roque Gonzales,Noroeste,-28.1297,-55.0266
+4316402,Rosário do Sul,Sudoeste,-30.2515,-54.9221
+4316428,Sagrada Família,Noroeste,-27.7085,-53.1351
+4316436,Saldanha Marinho,Noroeste,-28.3941,-53.097
+4316451,Salto do Jacuí,Noroeste,-29.0951,-53.2133
+4316477,Salvador das Missões,Noroeste,-28.1233,-54.8373
+4316501,Salvador do Sul,Metropolitana de Porto Alegre,-29.4386,-51.5077
+4316600,Sananduva,Noroeste,-27.947,-51.8079
+4317103,Sant'Ana do Livramento,Sudoeste,-30.8773,-55.5392
+4316709,Santa Bárbara do Sul,Noroeste,-28.3653,-53.251
+4316733,Santa Cecília do Sul,Noroeste,-28.1609,-51.9279
+4316758,Santa Clara do Sul,Centro Oriental,-29.4747,-52.0843
+4316808,Santa Cruz do Sul,Centro Oriental,-29.722,-52.4343
+4316972,Santa Margarida do Sul,Sudoeste,-30.3393,-54.0817
+4316907,Santa Maria,Centro Ocidental,-29.6868,-53.8149
+4316956,Santa Maria do Herval,Metropolitana de Porto Alegre,-29.4902,-50.9919
+4317202,Santa Rosa,Noroeste,-27.8702,-54.4796
+4317251,Santa Tereza,Nordeste,-29.1655,-51.7351
+4317301,Santa Vitória do Palmar,Sudeste,-33.525,-53.3717
+4317004,Santana da Boa Vista,Sudeste,-30.8697,-53.11
+4317400,Santiago,Centro Ocidental,-29.1897,-54.8666
+4317608,Santo Antônio da Patrulha,Metropolitana de Porto Alegre,-29.8268,-50.5175
+4317707,Santo Antônio das Missões,Noroeste,-28.514,-55.2251
+4317558,Santo Antônio do Palma,Noroeste,-28.4956,-52.0267
+4317756,Santo Antônio do Planalto,Noroeste,-28.403,-52.6992
+4317806,Santo Augusto,Noroeste,-27.8526,-53.7776
+4317905,Santo Cristo,Noroeste,-27.8263,-54.662
+4317954,Santo Expedito do Sul,Noroeste,-27.9074,-51.6434
+4317509,Santo Ângelo,Noroeste,-28.3001,-54.2668
+4319901,Sapiranga,Metropolitana de Porto Alegre,-29.6349,-51.0064
+4320008,Sapucaia do Sul,Metropolitana de Porto Alegre,-29.8276,-51.145
+4320107,Sarandi,Noroeste,-27.942,-52.9231
+4320206,Seberi,Noroeste,-27.4829,-53.4026
+4320230,Sede Nova,Noroeste,-27.6367,-53.9493
+4320263,Segredo,Centro Oriental,-29.3523,-52.9767
+4320305,Selbach,Noroeste,-28.6294,-52.9498
+4320321,Senador Salgado Filho,Noroeste,-28.025,-54.5507
+4320354,Sentinela do Sul,Metropolitana de Porto Alegre,-30.6107,-51.5862
+4320404,Serafina Corrêa,Nordeste,-28.7126,-51.9352
+4320503,Sertão,Noroeste,-27.9798,-52.2588
+4320552,Sertão Santana,Metropolitana de Porto Alegre,-30.4562,-51.6017
+4320578,Sete de Setembro,Noroeste,-28.1362,-54.4637
+4320602,Severiano de Almeida,Noroeste,-27.4362,-52.1217
+4320651,Silveira Martins,Centro Ocidental,-29.6467,-53.591
+4320677,Sinimbu,Centro Oriental,-29.5357,-52.5304
+4320701,Sobradinho,Centro Oriental,-29.4194,-53.0326
+4320800,Soledade,Noroeste,-28.8306,-52.5131
+4318002,São Borja,Sudoeste,-28.6578,-56.0036
+4318051,São Domingos do Sul,Noroeste,-28.5312,-51.886
+4318101,São Francisco de Assis,Sudoeste,-29.5547,-55.1253
+4318200,São Francisco de Paula,Nordeste,-29.4404,-50.5828
+4318309,São Gabriel,Sudoeste,-30.3337,-54.3217
+4318408,São Jerônimo,Metropolitana de Porto Alegre,-29.9716,-51.7251
+4318440,São Jorge,Nordeste,-28.4984,-51.7064
+4318457,São José das Missões,Noroeste,-27.7789,-53.1226
+4318465,São José do Herval,Noroeste,-29.052,-52.295
+4318481,São José do Hortêncio,Metropolitana de Porto Alegre,-29.528,-51.245
+4318499,São José do Inhacorá,Noroeste,-27.7251,-54.1275
+4318507,São José do Norte,Sudeste,-32.0151,-52.0331
+4318606,São José do Ouro,Noroeste,-27.7707,-51.5966
+4318614,São José do Sul,Metropolitana de Porto Alegre,-29.5448,-51.4821
+4318622,São José dos Ausentes,Nordeste,-28.7476,-50.0677
+4318424,São João da Urtiga,Noroeste,-27.8195,-51.8257
+4318432,São João do Polêsine,Centro Ocidental,-29.6194,-53.4439
+4318705,São Leopoldo,Metropolitana de Porto Alegre,-29.7545,-51.1498
+4318804,São Lourenço do Sul,Sudeste,-31.3564,-51.9715
+4318903,São Luiz Gonzaga,Noroeste,-28.412,-54.9559
+4319000,São Marcos,Nordeste,-28.9677,-51.0696
+4319109,São Martinho,Noroeste,-27.7112,-53.9699
+4319125,São Martinho da Serra,Centro Ocidental,-29.5397,-53.859
+4319158,São Miguel das Missões,Noroeste,-28.556,-54.5559
+4319208,São Nicolau,Noroeste,-28.1834,-55.2654
+4319307,São Paulo das Missões,Noroeste,-28.0195,-54.9404
+4319356,São Pedro da Serra,Metropolitana de Porto Alegre,-29.4193,-51.5134
+4319364,São Pedro das Missões,Noroeste,-27.7706,-53.2513
+4319372,São Pedro do Butiá,Noroeste,-28.1243,-54.8926
+4319406,São Pedro do Sul,Centro Ocidental,-29.6202,-54.1855
+4319505,São Sebastião do Caí,Metropolitana de Porto Alegre,-29.5885,-51.3749
+4319604,São Sepé,Centro Ocidental,-30.1643,-53.5603
+4319703,São Valentim,Noroeste,-27.5583,-52.5237
+4319711,São Valentim do Sul,Nordeste,-29.0451,-51.7684
+4319737,São Valério do Sul,Noroeste,-27.7906,-53.9368
+4319752,São Vendelino,Metropolitana de Porto Alegre,-29.3729,-51.3675
+4319802,São Vicente do Sul,Centro Ocidental,-29.6882,-54.6826
+4320453,Sério,Centro Oriental,-29.3904,-52.2685
+4320859,Tabaí,Centro Oriental,-29.643,-51.6823
+4320909,Tapejara,Noroeste,-28.0652,-52.0097
+4321006,Tapera,Noroeste,-28.6277,-52.8613
+4321105,Tapes,Metropolitana de Porto Alegre,-30.6683,-51.3991
+4321204,Taquara,Metropolitana de Porto Alegre,-29.6505,-50.7753
+4321303,Taquari,Centro Oriental,-29.7943,-51.8653
+4321329,Taquaruçu do Sul,Noroeste,-27.4005,-53.4702
+4321352,Tavares,Metropolitana de Porto Alegre,-31.2843,-51.088
+4321402,Tenente Portela,Noroeste,-27.3711,-53.7585
+4321436,Terra de Areia,Metropolitana de Porto Alegre,-29.5782,-50.0644
+4321451,Teutônia,Centro Oriental,-29.4482,-51.8044
+4321469,Tio Hugo,Noroeste,-28.5712,-52.5955
+4321477,Tiradentes do Sul,Noroeste,-27.4022,-54.0814
+4321493,Toropi,Centro Ocidental,-29.4782,-54.2244
+4321501,Torres,Metropolitana de Porto Alegre,-29.3334,-49.7333
+4321600,Tramandaí,Metropolitana de Porto Alegre,-29.9841,-50.1322
+4321626,Travesseiro,Centro Oriental,-29.2977,-52.0532
+4321956,Trindade do Sul,Noroeste,-27.5239,-52.8956
+4322004,Triunfo,Metropolitana de Porto Alegre,-29.9291,-51.7075
+4321634,Três Arroios,Noroeste,-27.5003,-52.1448
+4321667,Três Cachoeiras,Metropolitana de Porto Alegre,-29.4487,-49.9275
+4321709,Três Coroas,Metropolitana de Porto Alegre,-29.5137,-50.7739
+4321832,Três Forquilhas,Metropolitana de Porto Alegre,-29.5384,-50.0708
+4321857,Três Palmeiras,Noroeste,-27.6139,-52.8437
+4321907,Três Passos,Noroeste,-27.4555,-53.9296
+4321808,Três de Maio,Noroeste,-27.78,-54.2357
+4322103,Tucunduva,Noroeste,-27.6573,-54.4439
+4322152,Tunas,Noroeste,-29.1039,-52.9538
+4322186,Tupanci do Sul,Noroeste,-27.9241,-51.5383
+4322202,Tupanciretã,Centro Ocidental,-29.0858,-53.8445
+4322251,Tupandi,Metropolitana de Porto Alegre,-29.4772,-51.4174
+4322301,Tuparendi,Noroeste,-27.7598,-54.4814
+4322327,Turuçu,Sudeste,-31.4173,-52.1706
+4322343,Ubiretama,Noroeste,-28.0404,-54.686
+4322376,Unistalda,Centro Ocidental,-29.04,-55.1517
+4322350,União da Serra,Nordeste,-28.7833,-52.0238
+4322400,Uruguaiana,Sudoeste,-29.7614,-57.0853
+4322509,Vacaria,Nordeste,-28.5079,-50.9418
+4322541,Vale Real,Metropolitana de Porto Alegre,-29.3919,-51.2559
+4322525,Vale Verde,Metropolitana de Porto Alegre,-29.7864,-52.1857
+4322533,Vale do Sol,Centro Oriental,-29.5967,-52.6839
+4322558,Vanini,Noroeste,-28.4758,-51.8447
+4322608,Venâncio Aires,Centro Oriental,-29.6143,-52.1932
+4322707,Vera Cruz,Centro Oriental,-29.7184,-52.5152
+4322806,Veranópolis,Nordeste,-28.9312,-51.5516
+4322855,Vespasiano Corrêa,Centro Oriental,-29.0655,-51.8625
+4322905,Viadutos,Noroeste,-27.5716,-52.0211
+4323002,Viamão,Metropolitana de Porto Alegre,-30.0819,-51.0194
+4323101,Vicente Dutra,Noroeste,-27.1607,-53.4022
+4323200,Victor Graeff,Noroeste,-28.5632,-52.7495
+4323309,Vila Flores,Nordeste,-28.8598,-51.5504
+4323358,Vila Lângaro,Noroeste,-28.1062,-52.1438
+4323408,Vila Maria,Noroeste,-28.5359,-52.1486
+4323457,Vila Nova do Sul,Centro Ocidental,-30.3461,-53.876
+4323507,Vista Alegre,Noroeste,-27.3686,-53.4919
+4323606,Vista Alegre do Prata,Nordeste,-28.8052,-51.7947
+4323705,Vista Gaúcha,Noroeste,-27.2902,-53.6974
+4323754,Vitória das Missões,Noroeste,-28.3516,-54.504
+4323770,Westfália,Centro Oriental,-29.4263,-51.7645
+4323804,Xangri-lá,Metropolitana de Porto Alegre,-29.8065,-50.0519
+4300059,Água Santa,Noroeste,-28.1672,-52.031
+4301552,Áurea,Noroeste,-27.6936,-52.0505
