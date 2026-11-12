@@ -82,7 +82,7 @@ For the state, soybean yield was only 6% below trend, which looks mild. By regio
 │   ├── powerbi/           tables loaded by the dashboard
 │   ├── raw/               daily climate and municipality-mesoregion map (PAM raw file is regenerated)
 │   └── validation_sum_of_municipalities_vs_ibge_rs.csv
-├── dashboard/             Power BI theme and page background
+├── dashboard/             Power BI file and page background
 ├── docs/                  data dictionary, methodology, DAX, Portuguese indicator guide
 └── images/                dashboard screenshots
 ```
